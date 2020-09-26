@@ -17,8 +17,13 @@ No es necesario aprobar (ni entregar) los ejercicios prácticos para aprobar la 
 #### Promoción! 
 La materia también cuenta con la posibilidad de promocionar, para acceder a esto, es necesario contar con una nota final mayor o igual a 7 (siete). La nota final es el promedio entre las notas de los ejercicios y las de los parciales.
 
+## Contactanos
+Te dejamos nuestros medios de contacto: 
+- Nuestro buzón de sugerencias: https://docs.google.com/forms/d/e/1FAIpQLSdfa9f5q23QazC-zkxXHYshgatAEtOyZL27cRoml8zHbJw1YQ/viewform
+- Nuestro Discord: https://discord.gg/yPdNkej
+- Nuestra lista de correos: fiuba-algoritmos-iii-doc@googlegroups.com
 
+## Calendario
 
 ## Bibliografía
 
-## Calendario
