@@ -21,7 +21,8 @@ La materia también cuenta con la posibilidad de promocionar, para acceder a est
 Te dejamos nuestros medios de contacto: 
 - Nuestro buzón de sugerencias: https://docs.google.com/forms/d/e/1FAIpQLSdfa9f5q23QazC-zkxXHYshgatAEtOyZL27cRoml8zHbJw1YQ/viewform
 - Nuestro Discord: https://discord.gg/yPdNkej
-- Nuestra lista de correos: fiuba-algoritmos-iii-doc@googlegroups.com
+- Nuestra lista de correos de estudiantes: fiuba-algoritmos-iii@googlegroups.com
+- Nuestra lista de correos de docentes: fiuba-algoritmos-iii-doc@googlegroups.com
 
 ## Calendario
 
