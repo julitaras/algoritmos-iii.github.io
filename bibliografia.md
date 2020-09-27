@@ -1,8 +1,24 @@
 ---
 layout: page
-title: Papers
-permalink: /papers/
+title: Bibliografía
+permalink: /bibliografia/
 ---
+
+- Smalltalk Best Practices Patterns ~ Kent Beck
+
+- TDD by Example ~ Kent Beck
+
+- Object Thinking ~ David West
+
+- Design Patterns: Elements of Reusable Object-Oriented Software ~ The Gang of Four
+
+- Smalltalk, Objects and Design ~ Chamond Liu
+
+- Extreme Programming Explained ~ Kent Beck
+
+- Domain Driven Design ~ Eric Evans
+
+# Lecturas
 
 - [Programming as Theory Building ~ Peter Naur](programming-as-theory-building.pdf)
 

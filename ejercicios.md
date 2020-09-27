@@ -4,7 +4,7 @@ title: Ejercicios
 permalink: /ejercicios/
 ---
 
-Los ejercicios se resuelven de a grupos de a 2 y se comparten a traves de github con el docente. Cuando ya sepas quien va a ser tu compañero, por favor llená el siguiente formulario.
+Los ejercicios se resuelven de a grupos de a dos integrantes y se comparten a traves de github de manera pública. Cuando ya sepas quien va a ser tu compañero, por favor llená el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSf51H4-5UmZuXirXIwleAooBHKxrTra_c7xSXfQWlVUjx7n5A/viewform?usp=sf_link).
 
 La creación del repositorio debe ser de la siguiente forma:
 
