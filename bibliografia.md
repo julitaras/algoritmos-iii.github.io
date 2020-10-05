@@ -4,6 +4,8 @@ title: Bibliografía
 permalink: /bibliografia/
 ---
 
+# Libros
+
 - Smalltalk Best Practices Patterns ~ Kent Beck
 
 - TDD by Example ~ Kent Beck
@@ -35,3 +37,9 @@ permalink: /bibliografia/
 - [Method Object (Smalltalk Best Practice Patterns, Chapter 3) ~ Kent Beck](method-object.pdf)
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](intro-design-patterns.pdf)
+
+# Videos
+
+- [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
+
+- [Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?v=NP9AIUT9nos)
