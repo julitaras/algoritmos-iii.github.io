@@ -24,9 +24,9 @@ permalink: /bibliografia/
 
 - [Programming as Theory Building ~ Peter Naur](programming-as-theory-building.pdf)
 
-- [No Silver Bullet ~ Frederick P. Brooks](no-silver-bullet.pdf)
+- [No Silver Bullet ~ Frederick P. Brooks](no-silver-bullet.pdf) - [Traducción al Español](https://gist.github.com/esparta/582e43af7b803e0aaf69)
 
-- [Design Principles Behind Smalltalk ~ Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
+- [Design Principles Behind Smalltalk ~ Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - [Traducción al Español](https://drive.google.com/file/d/1O6eT8gYyoJQzi09K8nqp22vkR8wfNKWH/view)
 
 - [Null Object Pattern ~ Bobby Woolf](null-object-pattern.pdf)
 
