@@ -32,7 +32,7 @@ permalink: /bibliografia/
 
 - [Fail Fast ~ Jim Shore](fail-fast.pdf)
 
-- [The Object Recursion Pattern ~ Bobby Woolf](object-recursion-pattern.pdf)
+- [The Object Recursion Pattern ~ Bobby Woolf](object-recusion-pattern.pdf)
 
 - [Method Object (Smalltalk Best Practice Patterns, Chapter 3) ~ Kent Beck](method-object.pdf)
 
