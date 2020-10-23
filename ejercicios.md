@@ -14,7 +14,7 @@ Si te llegas a quedar sin grupo por cualquier motivo en algun momento de la curs
 
 Pueden encontrar los enunciados de cada ejercicio en el repositorio de la materia:
 
-https://github.com/algoritmos-iii/ejercicios-2020-2c
+[Repositorio 2020 2c](https://github.com/algoritmos-iii/ejercicios-2020-2c)
 
 Iremos publicando los mismos con el correr de la cursada.
 
