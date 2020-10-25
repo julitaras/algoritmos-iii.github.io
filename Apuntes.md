@@ -96,7 +96,11 @@ Polimorfismo:
 
 ### Quitar código repetido
 
-1) Copiar lo repetido a "un lugar"
-2) Parametrizar lo que cambia
-3) Nombrar la nueva abstracción
-4) Reemplazar lo repetido por la nueva abstracción
+Cuando tenemos código repetido quiere decir que nos está faltando una abstracción.
+
+Pasos a seguir para quitarlo:
+
+1.  Copiar lo repetido a "un lugar"
+2.  Parametrizar lo que cambia
+3.  Nombrar la nueva abstracción (el paso más importante!)
+4.  Reemplazar lo repetido por la nueva abstracción
