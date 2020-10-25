@@ -10,13 +10,9 @@ permalink: /apuntes/
 - [01B Introducción al desarrollo de software](https://docs.google.com/presentation/d/1U5iGjwEVai199uzbqJWTYlGrsaeetaqJbcC1UbMaJc4/edit?usp=sharing)
 - [02 (Breve) Historia de Smalltalk](https://docs.google.com/presentation/d/16lt6Rc56Evfoj8mUIZngeANHE1Yth-8lZ2GcyeMoSq0/edit?usp=sharing)
 
----
-
 # Ejercicios en clase
 
 Pueden encontrarlos en este repo https://github.com/algoritmos-iii/ejercicios-en-clase
-
----
 
 # Apunte teórico
 
