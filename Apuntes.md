@@ -14,6 +14,10 @@ permalink: /apuntes/
 
 Pueden encontrarlos en el repo de [Ejercicios en clase](https://github.com/algoritmos-iii/ejercicios-en-clase)
 
+# Git
+
+[Tutorial de remotes para ejercicios](https://gist.github.com/iloyarte/2543280524166ad63f46ea326322cc1c)
+
 # Apunte teórico
 
 ## Conceptos fundamentales
