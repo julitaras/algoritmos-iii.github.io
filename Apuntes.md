@@ -12,7 +12,7 @@ permalink: /apuntes/
 
 # Ejercicios en clase
 
-Pueden encontrarlos en este repo https://github.com/algoritmos-iii/ejercicios-en-clase
+Pueden encontrarlos en el repo de [Ejercicios en clase](https://github.com/algoritmos-iii/ejercicios-en-clase)
 
 # Apunte teórico
 
