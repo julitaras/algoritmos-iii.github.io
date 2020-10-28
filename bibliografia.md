@@ -4,7 +4,7 @@ title: Bibliografía
 permalink: /bibliografia/
 ---
 
-# Libros
+## Libros
 
 - Smalltalk Best Practices Patterns ~ Kent Beck
 
@@ -20,7 +20,7 @@ permalink: /bibliografia/
 
 - Domain Driven Design ~ Eric Evans
 
-# Lecturas
+## Lecturas
 
 - [Programming as Theory Building ~ Peter Naur](programming-as-theory-building.pdf)
 
@@ -38,7 +38,7 @@ permalink: /bibliografia/
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](intro-design-patterns.pdf)
 
-# Videos
+## Videos
 
 - [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
 
