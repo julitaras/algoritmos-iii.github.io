@@ -10,10 +10,9 @@ Si te llegas a quedar sin grupo por cualquier motivo en algun momento de la curs
 
 ## Repositorio de la materia
 
-Pueden encontrar los enunciados de cada ejercicio en el repositorio de la materia:
-
-[Repositorio 2020 2c](https://github.com/algoritmos-iii/ejercicios-2020-2c)
-
+Pueden encontrar los enunciados de cada ejercicio en el [repositorio de ejercicios](https://github.com/algoritmos-iii/ejercicios-2020-2c)
+ de la materia. De este repositorio se puede hacer un `fork` de Github, o simplemente descargar los enunciados y archivos `.st` sueltos, y con eso cada grupo se arma su propio repositorio donde ira completando los ejercicios.
+ 
 Iremos publicando los mismos con el correr de la cursada.
 
 ## Fechas de Entrega
@@ -24,6 +23,10 @@ Iremos publicando los mismos con el correr de la cursada.
 
 ## Forma de Entrega
 
-Todos los ejerccios deben ser entregados a través del repositorio de cada grupo, informado al inicio de la cursada. Deben respetar la misma estructura de directorios que el repo de la materia. El código debe ser entregado en formato .st, hacíendo "file out" de la categoría correspondiente.
+Todos los ejerccios deben ser entregados a través del repositorio de cada grupo. Deben respetar la misma estructura de directorios que el repo de la materia. El código debe ser entregado en formato `.st`, hacíendo "file out" de la categoría correspondiente.
+
+Una vez terminado el ejercicio, hay que hacer un **release**. Para esto, hay que ir al repositorio del grupo, y clickear en `Create a new release` (o directamente, dirigirse a `github.com/<usuario>/<repositorio>/releases/new`). Ahí, se elige un titulo para el release (el nombre del ejercicio) y se publica. Esto va a generar un `.zip` con una copia del repositorio en la branch `main` al día. Es decir, asegurense que su ultimo commit en master tenga la entrega final!!
+
+Este release (que debe estar publicado para la fecha de entrega) lo va a descargar su corrector, correr en su entorno, corregirlo, y les va a informar por mail las correcciones.
 
 Asegúrense de probar que su código funcione correctamente en una imágen limpia de Cuis antes de realizar la entrega final.
