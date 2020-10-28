@@ -1,4 +1,4 @@
-Bienvenidos al curso 3 de Algoritmos y Programación III (7507/9502).
+Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Méndez/Leveroni
 
 ## Cursada
 
