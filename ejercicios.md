@@ -23,7 +23,7 @@ Iremos publicando los mismos con el correr de la cursada.
 
 ## Forma de Entrega
 
-Todos los ejerccios deben ser entregados a través del repositorio de cada grupo. Deben respetar la misma estructura de directorios que el repo de la materia. El código debe ser entregado en formato `.st`, hacíendo "file out" de la categoría correspondiente.
+Todos los ejercicios deben ser entregados a través del repositorio de cada grupo. Deben respetar la misma estructura de directorios que el repo de la materia. El código debe ser entregado en formato `.st`, hacíendo "file out" de la categoría correspondiente.
 
 Una vez terminado el ejercicio, hay que hacer un **release**. Para esto, hay que ir al repositorio del grupo, y clickear en `Create a new release` (o directamente, dirigirse a `github.com/<usuario>/<repositorio>/releases/new`). Ahí, se elige un titulo para el release (el nombre del ejercicio) y se publica. Esto va a generar un `.zip` con una copia del repositorio en la branch `main` al día. Es decir, asegurense que su ultimo commit en master tenga la entrega final!!
 
