@@ -28,6 +28,8 @@ permalink: /bibliografia/
 
 - [Design Principles Behind Smalltalk ~ Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - [Traducción al Español](https://drive.google.com/file/d/1O6eT8gYyoJQzi09K8nqp22vkR8wfNKWH/view)
 
+- [A Simple Technique for Handling Multiple Polymorphism ~ Dan Ingalls](simple-technique-for-handling-multiple-polymorphism.pdf)
+
 - [Null Object Pattern ~ Bobby Woolf](null-object-pattern.pdf)
 
 - [Fail Fast ~ Jim Shore](fail-fast.pdf)
@@ -37,6 +39,12 @@ permalink: /bibliografia/
 - [Method Object (Smalltalk Best Practice Patterns, Chapter 3) ~ Kent Beck](method-object.pdf)
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](intro-design-patterns.pdf)
+
+### Complementarias
+
+- [Blue Book ~ Adele Goldberg & David Robson](http://sdmeta.gforge.inria.fr/FreeBooks/BlueBook/Bluebook.pdf)
+
+- [Polimorphic Hierarchy ~ Booby Wolf](polymorphic-hierarchy.pdf)
 
 ## Videos
 
