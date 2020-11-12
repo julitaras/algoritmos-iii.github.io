@@ -21,6 +21,7 @@ Iremos publicando los mismos con el correr de la cursada.
 | ------------------- | -------------------- | ------------------------------ |
 | Factorio            |  22/10/2020          | 29/10/2020 (hasta las 19 hrs)  |
 | Código Repetido     |  02/11/2020          | 09/11/2020 (hasta las 19 hrs)  |
+| Números             |  09/11/2020          | 16/11/2020 (hasta las 19 hrs)  |
 
 ## Forma de Entrega
 
