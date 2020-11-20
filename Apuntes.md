@@ -129,19 +129,19 @@ Algoritmo de Method Lookup:
 
 #### Quitar código repetido
 
-1) Copiar lo repetido a "un lugar"
-2) Parametrizar lo que cambia
-3) Nombrar la nueva abstracción
-4) Reemplazar lo repetido por la nueva abstracción
+1. Copiar lo repetido a "un lugar"
+2. Parametrizar lo que cambia
+3. Nombrar la nueva abstracción
+4. Reemplazar lo repetido por la nueva abstracción
 
 #### Reemplazar if por polimorfismo
 
-1) Crear una jerarquia de clases con una clase por cada condicion del if (si no existe)
-2) Mover el cuerpo del if de cada condicion a cada abstracción del paso 1) utilizando un mensaje polimorfico.
-3) Nombrar el mensaje polifmorfico
-4) Nombrar las abstracciones del paso 1)
-5) Reemplazar el if por el envio de mensaje polimorfico
-6) Buscar el objeto polimorfico (si es necesario)
+1. Crear una jerarquia de clases con una clase por cada condicion del if (si no existe)
+2. Mover el cuerpo del if de cada condicion a cada abstracción del paso 1) utilizando un mensaje polimorfico.
+3. Nombrar el mensaje polifmorfico
+4. Nombrar las abstracciones del paso 1)
+5. Reemplazar el if por el envio de mensaje polimorfico
+6. Buscar el objeto polimorfico (si es necesario)
 
 ### Buenas prácticas
 
