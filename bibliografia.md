@@ -32,13 +32,13 @@ permalink: /bibliografia/
 
 - [Null Object Pattern ~ Bobby Woolf](bibliografia/null-object-pattern.pdf)
 
-- [Fail Fast ~ Jim Shore](bibliografia/fail-fast.pdf)
-
 - [The Object Recursion Pattern ~ Bobby Woolf](bibliografia/object-recusion-pattern.pdf)
 
 - [Method Object (Smalltalk Best Practice Patterns, Chapter 3) ~ Kent Beck](bibliografia/method-object.pdf)
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](bibliografia/intro-design-patterns.pdf)
+
+- [Fail Fast ~ Jim Shore](bibliografia/fail-fast.pdf)
 
 ### Complementarias
 
