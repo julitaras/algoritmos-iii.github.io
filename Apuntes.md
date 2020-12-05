@@ -12,6 +12,8 @@ permalink: /apuntes/
 - [01 Introducción a la materia](https://docs.google.com/presentation/d/1YjjkbSAQfZFj9ImwWzJElRzqa977T91xWtUjM30K2O0/edit?usp=sharing)
 - [01B Introducción al desarrollo de software](https://docs.google.com/presentation/d/1U5iGjwEVai199uzbqJWTYlGrsaeetaqJbcC1UbMaJc4/edit?usp=sharing)
 - [02 (Breve) Historia de Smalltalk](https://docs.google.com/presentation/d/16lt6Rc56Evfoj8mUIZngeANHE1Yth-8lZ2GcyeMoSq0/edit?usp=sharing)
+- [08 Organización de conocimiento](https://docs.google.com/presentation/d/1aZm4edKvIBJpBNg3IZBp4HDy6JXnzGcx7VT8Wu_gPlQ/edit?usp=sharing)
+- [16 TDD](https://docs.google.com/presentation/d/1pXMtRqYypmmLrnMNMHzteG8MICuMSgDfuhaZILOrhqM/edit?usp=sharing)
 
 ## Ejercicios en clase
 
