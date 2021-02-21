@@ -14,9 +14,17 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Méndez/Leveron
 
 - No es necesario aprobar (ni entregar) los ejercicios prácticos para aprobar la cursada. Sin embargo, es muy recomendable hacerlos para poder estar preparados para aprobar los parciales.
 
+### Recuperatorios
+
+- En caso de desaprobar algún parcial, se deberá rendir un único recuperatorio (aunque se hayan desaprobado ambos parciales), después del 2do parcial. Para quienes desaprueben el 2do parcial, dicho recuperatorio será similar al 2do parcial, ya que este abarca todos los contenidos de la materia. Para aquellos que desaprueben únicamente el 1er parcial, se hará un recuperatorio especial que evaluará sólo dichos contenidos.
+
+- Quienes desaprueben el recuperatorio, contarán con un 2do recuperatorio, bajo la misma modalidad.
+
+- Los ejercicios, dado que no son condición para aprobar la materia, no tienen instancia de recuperatorio.
+
 ## Promoción!
 
-- Para acceder al régimen de promoción, es necesario contar con una nota final mayor o igual a 7. La nota final es el promedio entre las notas de los ejercicios y las de los parciales.
+- Para acceder al régimen de promoción, es necesario contar con una nota final mayor o igual a 7. La nota final es el promedio entre las notas de los ejercicios y las de los parciales (o último recuperatorio correspondiente).
 
 ## Canales de consultas
 
