@@ -7,25 +7,27 @@ permalink: /apuntes/
 * toc
 {:toc}
 
-## Presentaciones
+# Presentaciones
 
 - [01 Introducción a la materia](https://docs.google.com/presentation/d/1YjjkbSAQfZFj9ImwWzJElRzqa977T91xWtUjM30K2O0/edit?usp=sharing)
 - [01B Introducción al desarrollo de software](https://docs.google.com/presentation/d/1U5iGjwEVai199uzbqJWTYlGrsaeetaqJbcC1UbMaJc4/edit?usp=sharing)
 - [02 (Breve) Historia de Smalltalk](https://docs.google.com/presentation/d/16lt6Rc56Evfoj8mUIZngeANHE1Yth-8lZ2GcyeMoSq0/edit?usp=sharing)
 - [08 Organización de conocimiento](https://docs.google.com/presentation/d/1aZm4edKvIBJpBNg3IZBp4HDy6JXnzGcx7VT8Wu_gPlQ/edit?usp=sharing)
 - [16 TDD](https://docs.google.com/presentation/d/1pXMtRqYypmmLrnMNMHzteG8MICuMSgDfuhaZILOrhqM/edit?usp=sharing)
+- [21 Intro a Patrones](https://docs.google.com/presentation/d/1xz_pa4v_X4X6G5o8KR_VjNxbFsvSu2wJwBWuOEaz-W4/edit?usp=sharing)
+- [24 Objetos simuladores](https://docs.google.com/presentation/d/1fc-wSHBzNrKOHuOR2o_K95wBOdrSzh1_8pTIr55wDRA/edit?usp=sharing)
 
-## Ejercicios en clase
+# Ejercicios en clase
 
 Pueden encontrarlos en el repo de [Ejercicios en clase](https://github.com/algoritmos-iii/ejercicios-en-clase)
 
-## Git
+# Git
 
 [Tutorial de remotes para ejercicios](https://gist.github.com/iloyarte/2543280524166ad63f46ea326322cc1c)
 
-## Apunte teórico
+# Apunte teórico
 
-### Conceptos fundamentales
+## Conceptos fundamentales
 
 Software / Programa:
 - Modelo computable de un dominio de problema de la realidad (vs Secuencia de instrucciones)
@@ -111,7 +113,13 @@ Algoritmo de Method Lookup:
 - Subclasificación: Se busca primero en la clase de la cual el objeto es instancia. Si no se encuentra allí, se comienza a buscar en la jerarquía de superclases, comenzando por la superclase inmediata de la clase del objeto.
 - "super": Pseudo-variable que referencia a self dentro de un método. A diferencia de self, al enviarle un mensaje, el método asociado se comienza a buscar a partir de la **superclase** donde está definido el método.
 
-### Heurísticas de diseño
+Encapsulamiento:
+- El mismo se logra cuando el resto de los objetos no conocen a los colaboradores internos del objeto en cuestión. Decimos que rompemos encapsulamiento cuando compartimos a nuestro colaborador interno con otros objetos.
+
+Antropomorfismo:
+- Pensar a los objetos con comportamiento que normalmente le asignamos a personas, para enriquecer nuestro modelo de objetos y obtener así un mejor diseño. Ej: Si pensamos en una tarjeta de crédito, la misma es un mero pedazo de plástico. Normalmente sería una persona quien verificara si la misma ya expiró o no. Sin embargo, asignar esta responsabilidad a la tarjeta (en lugar de a quien circunstancialmente hace la verificación) nos lleva a un modelo superador.
+
+## Heurísticas de diseño
 
 - Relación 1:1 entre objeto y ente de la realidad.
 - Buscamos que el conjunto de mensajes sea minimal -> Bajo acoplamiento, alta cohesión.
@@ -126,17 +134,18 @@ Algoritmo de Method Lookup:
 - Siempre crear objetos válidos
 - Favorecer objetos inmutables
 - No usar nil / null. Utilizar Null Object Pattern cuando el modelo resultante modela bien la realidad. Sino, utilizar el patrón "mensajeIfNone: aBlock".
+- Utilizar antropomorfismo para evitar tener objetos que sean meras estructuras de datos / clases anémicas.
 
-### Técnicas
+## Técnicas
 
-#### Quitar código repetido
+### Quitar código repetido
 
 1. Copiar lo repetido a "un lugar"
 2. Parametrizar lo que cambia
 3. Nombrar la nueva abstracción
 4. Reemplazar lo repetido por la nueva abstracción
 
-#### Reemplazar if por polimorfismo
+### Reemplazar if por polimorfismo
 
 1. Crear una jerarquia de clases con una clase por cada condicion del if (si no existe)
 2. Mover el cuerpo del if de cada condicion a cada abstracción del paso 1) utilizando un mensaje polimorfico.
@@ -145,7 +154,13 @@ Algoritmo de Method Lookup:
 5. Reemplazar el if por el envio de mensaje polimorfico
 6. Buscar el objeto polimorfico (si es necesario)
 
-### Buenas prácticas
+### TDD
+
+1) Escribir un test que falla (el más sencillo)
+2) Hacer pasar todos los tests (con la implementación más simple posible)
+3) Refactorizar (si hay código para mejorar)
+
+## Buenas prácticas
 
 - Definir mensajes abstractos de forma explícita (en Smalltalk: self subclassResponsibility)
 - Categorizar mensajes de forma cohesiva, utilizando "private" para aquellos mensajes que no forman parte del protocolo escencial (público) del objeto.
