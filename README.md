@@ -24,7 +24,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Méndez/Leveron
 
 ## Promoción!
 
-- Para acceder al régimen de promoción, es necesario contar con una nota final mayor o igual a 7. La nota final es el promedio entre las notas de los ejercicios y las de los parciales (o último recuperatorio correspondiente).
+- Para acceder al régimen de promoción, es necesario contar con una nota final mayor o igual a 7. La nota final es el promedio entre las notas de los ejercicios y las de los parciales (y recuperatorios, si corresponde).
 
 ## Canales de consultas
 
