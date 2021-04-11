@@ -12,7 +12,7 @@ Esta sección se irá completando con el correr del cuatrimestre.
 
 # Ejercicios en clase
 
-Pueden encontrarlos en el repo de [Ejercicios en clase](https://github.com/algoritmos-iii/ejercicios-en-clase)
+Pueden encontrarlos en el repo de [Ejercicios en clase](https://github.com/algoritmos-iii/ejercicios-en-clase-2021-1c)
 
 # Git
 
