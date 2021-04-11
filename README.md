@@ -1,3 +1,5 @@
+# 2021 - 1er Cuatrimestre
+
 Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Méndez/Leveroni
 
 ## Cursada
@@ -39,4 +41,4 @@ Recuerden por favor realizar toda consulta por **canales públicos** (es decir N
 
   - Este buzon es de caracter anónimo y nos va a servir para mejorar clase a clase, en vez de esperar a que termine el cuatrimestre.
 
-- Si querés comunicarte con los docentes por algun problema en particular, podés envíar un mail a la [lista de docentes](fiuba-algoritmos-iii-doc@googlegroups.com).
+- Si querés comunicarte con los docentes por algun problema en particular, podés envíar un mail a la [lista de docentes](mailto:fiuba-algoritmos-iii-doc@googlegroups.com).
