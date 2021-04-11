@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ejercicios
-permalink: /ejercicios/
+permalink: /2020-2c/ejercicios/
 ---
 
 Los ejercicios se resuelven de a grupos de a dos integrantes y se comparten a través de Github de manera pública.

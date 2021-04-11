@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apuntes
-permalink: /apuntes/
+permalink: /2020-2c/apuntes/
 ---
 
 * toc
