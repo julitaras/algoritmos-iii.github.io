@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Bibliografía
-permalink: /2020-2c/bibliografia/
 ---
 
 ## Libros

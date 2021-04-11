@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ejercicios
-permalink: /ejercicios/
 ---
 
 Los ejercicios se resuelven de a grupos de a dos integrantes y se comparten a través de Github de manera pública.

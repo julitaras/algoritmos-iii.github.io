@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Cuis
-permalink: /cuis/
 ---
 
 [Cuis University](http://cuisuniversity.org/) es un ambiente creado especialmente para la enseñanza de la **Programación Orientada a Objetos**, usando _Smalltalk_ como herramienta y en particular la implementación Argentina de Smalltalk denominada [_Cuis_](https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Dev).

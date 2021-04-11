@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Bibliografía
-permalink: /bibliografia/
 ---
 
 ## Libros
