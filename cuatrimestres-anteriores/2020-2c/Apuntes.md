@@ -18,7 +18,7 @@ title: Apuntes
 
 # Ejercicios en clase
 
-Pueden encontrarlos en el repo de [Ejercicios en clase](https://github.com/algoritmos-iii/ejercicios-en-clase)
+Pueden encontrarlos en el repo de [Ejercicios en clase](https://github.com/algoritmos-iii/ejercicios-en-clase-2020-2c)
 
 # Git
 
