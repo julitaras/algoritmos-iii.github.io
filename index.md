@@ -2,9 +2,9 @@
 layout: home
 ---
 
-## 2021 - 1er Cuatrimestre
-
 Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Méndez/Leveroni
+
+# 2021 - 1er Cuatrimestre
 
 ## Cursada
 
