@@ -12,7 +12,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Méndez/Leveron
 
 - Durante la cursada hay ejercicios prácticos grupales, que se resuelven en grupos de a dos integrantes.
 
-- Hay 2 examenes parciales. El primero, promediando la cursada, es domiciliario. El segundo será al finalizar la cursada, a realizarse durante el horario de clases.
+- Hay 2 examenes parciales. El primero, promediando la cursada, y el segundo, que integra todos los temas, será al finalizar la cursada.
 
 ## Criterio de Aprobación
 
@@ -28,7 +28,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Méndez/Leveron
 
 - Los ejercicios, dado que no son condición para aprobar la materia, no tienen instancia de recuperatorio.
 
-## Promoción!
+## Promoción
 
 - Para acceder al régimen de promoción, es necesario contar con una nota final mayor o igual a 7. La nota final es el promedio entre las notas de los ejercicios y las de los parciales (y recuperatorios, si corresponde).
 
