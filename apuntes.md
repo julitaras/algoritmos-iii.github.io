@@ -8,7 +8,9 @@ title: Apuntes
 
 # Presentaciones
 
-Esta sección se irá completando con el correr del cuatrimestre.
+- [01 Introducción a la materia](https://docs.google.com/presentation/d/16coCuJ1zctrUT-JKUthABUv2OGNSx6qKuhkdf7U5E0I/edit?usp=sharing)
+- [01B Introducción al desarrollo de software](https://docs.google.com/presentation/d/1xhjJnae9inqcs-3weFuuQIE3sQVKBJWh1efOox5cdgQ/edit?usp=sharing)
+- [02 Historia de Smalltalk](https://docs.google.com/presentation/d/1GHvOZyS_XomFy1ShYInw7tLYD0cozAqACsyhG-uUxG0/edit?usp=sharing)
 
 # Ejercicios en clase
 
