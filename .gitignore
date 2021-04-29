@@ -2,3 +2,15 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+#.DS_STORE
+.DS_STORE
+
+#Gemfile.lock
+Gemfile.lock
+
+#vendor
+/vendor
+
+#.bundle
+.bundle
