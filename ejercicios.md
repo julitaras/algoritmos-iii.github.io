@@ -7,6 +7,10 @@ Los ejercicios se resuelven de a grupos de a dos integrantes y se comparten a tr
 
 Si te llegas a quedar sin grupo por cualquier motivo en algun momento de la cursada (un compañero/a dejo la materia, por ejemplo), avisalo por la lista de correo!
 
+## Dinámica
+
+Para la entrega de consignas y resoluciones de ejercicios utilizaremos GitHub y por lo tanto, git. Si no saben como utilizarlo puede ver nuetro taller explicativo junto con su <a href="{{ '/apuntes.html' | relative_url }}">apunte</a>.
+
 ## Repositorio de la materia
 
 Pueden encontrar los enunciados de cada ejercicio en el [repositorio de ejercicios](https://github.com/algoritmos-iii/ejercicios-2021-1c)
