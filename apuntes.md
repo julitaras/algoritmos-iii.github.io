@@ -20,6 +20,8 @@ Pueden encontrarlos en el repo de [Ejercicios en clase](https://github.com/algor
 
 [Tutorial de remotes para ejercicios](https://gist.github.com/iloyarte/2543280524166ad63f46ea326322cc1c)
 
+[Apunte del taller de Git](https://docs.google.com/document/d/1VwJUVTMz1psGqdaNR2NJWo8mtPoK2FvDB1cP9xQObcQ/edit?usp=sharing)
+
 # Apunte teórico
 
 Esta sección se irá completando con el correr del cuatrimestre, a medida que vayamos aprendiendo conceptos nuevos :)
