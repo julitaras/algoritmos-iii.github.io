@@ -74,25 +74,25 @@ Colaboradores:
 - Interno: Lo conozco siempre, relación de cercanía (variable de instancia)
 - Externo: Colabora para un mensaje puntual (parámetro)
 
-    #### 4 caracteristicas de una colaboración:
-   
-    **Sincrónica:** Se envia un mensaje y esperamos que el mismo sea respondido. No continuamos con la siguiente colaboracion.
-    
-    **Dirigida:**  Envio un mensaje que va a un objeto receptor. Al cual se a quien.
-    
-    Ejemplo:
-    
-    ```smalltalk
-    AlanTuring dateOfBirth.
-    ```
+  #### 4 caracteristicas de una colaboración:
+  
+  **Sincrónica:** Se envia un mensaje y esperamos que el mismo sea respondido. No continuamos con la siguiente colaboracion.
+  
+  **Dirigida:**  Envio un mensaje que va a un objeto receptor. Al cual se a quien.
+  
+  Ejemplo:
+  
+  ```smalltalk
+  AlanTuring dateOfBirth.
+  ```
 
-    |Receptor | Mensaje | Emisor |
-    |--|--|--|
-    | `AlanTuring`| `dateOfBirth` | Yo en el ambiente|
+  |Receptor | Mensaje | Emisor |
+  |--|--|--|
+  | `AlanTuring`| `dateOfBirth` | Yo en el ambiente|
 
-    **Siempre tiene se responde un objeto:**  En el caso de `smalltalk` si uno no pone el `return` explícito responde `self`.
+  **Siempre tiene se responde un objeto:**  En el caso de `smalltalk` si uno no pone el `return` explícito responde `self`.
 
-    **Receptor desconoce al emisor:** La respuesta a una colaboración es independiente del emisor.
+  **Receptor desconoce al emisor:** La respuesta a una colaboración es independiente del emisor.
 
 Ejemplo:
  ```smalltalk
