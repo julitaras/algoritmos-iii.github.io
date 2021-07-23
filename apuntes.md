@@ -12,6 +12,9 @@ title: Apuntes
 - [01B Introducción al desarrollo de software](https://docs.google.com/presentation/d/1xhjJnae9inqcs-3weFuuQIE3sQVKBJWh1efOox5cdgQ/edit?usp=sharing)
 - [02 Historia de Smalltalk](https://docs.google.com/presentation/d/1GHvOZyS_XomFy1ShYInw7tLYD0cozAqACsyhG-uUxG0/edit?usp=sharing)
 - [08 Organización de conocimiento](https://docs.google.com/presentation/d/1baX5WIEH-nemr6rYVDNc2O0GF0HLcN2zaxNmJccvQ-g/edit?usp=sharing) 
+- [16 Testing Funcional](https://drive.google.com/file/d/1Xmb9Jc7bSr53ZWYUWVolwppXOHcwWIuW/view?usp=sharing)
+- [18 TDD](https://docs.google.com/presentation/d/1waVHRXt6pa4gAlpqJNgLMsBtIVAQOVA24M96DWNSStw/edit?usp=sharing)
+- [21 Intro a Patrones de Diseño](https://docs.google.com/presentation/d/1qoOGsutGcMZX2XO14XXTE84i_5vma6taDhJbOiCKhCI/edit?usp=sharing)
 
 # Ejercicios en clase
 
@@ -233,6 +236,10 @@ El punto separa las colaboraciones. Es una forma de decir que viene otra colabor
 - Evitar subclasificar de clases concretas.
 - Pensar primero en composición/delegación por sobre subclasificación al momento de reutilizar código.
 - Favorecer polimorfismo sobre el uso de IFs.
+- Crear siempre objetos completos
+- Crear siempre objetos válidos
+- Favorecer objetos inmutables
+- No usar nil
 
 ## Técnicas
 
@@ -245,11 +252,34 @@ El punto separa las colaboraciones. Es una forma de decir que viene otra colabor
 
 ### Reemplazar if por polimorfismo
 
-1. Crear una jerarquia de clases con una clase por cada condicion del if (si no existe)
-2. Mover el cuerpo del if de cada condicion a cada abstracción del paso 1) utilizando un mensaje polimorfico.
-3. Nombrar el mensaje polifmorfico
-4. Nombrar las abstracciones del paso 1)
-5. Reemplazar el if por el envio de mensaje polimorfico
+1. Crear una jerarquía de clases con una clase por cada condición del if (si es que no existen)
+2. Mover el cuerpo del if de cada condición a cada abstracción del paso 1) utilizando un mensaje polimórfico.
+3. Nombrar el mensaje polimórfico.
+4. Nombrar las abstracciones generadas en el paso 1)
+5. Reemplazar el if por el envío del mensaje polimórfico.
+6. Buscar el objeto polimórfico (si es necesario)
+
+### TDD
+
+1. Escribir el test más sencillo que se me ocurra.
+2. Correrlo para comprobar que falle y hacerlo pasar con la implementación más simple posible.
+3. Reflexionar. ¿Se puede mejorar? Si es así, refactorizar.
+
+## Patrones vistos en la materia
+
+- Double Dispatch
+- Method Object
+- Null Object Pattern
+- State
+- Decorator
+- Adapter (+ PluggableAdapter)
+- Proxy
+- Visitor
+- Composite
+- Object Recursion
+- Observer
+
+Consultar bibliografía de la materia para profundizar, junto con los ejemplos vistos en clase (https://github.com/algoritmos-iii/ejercicios-en-clase-2021-1c)
 
 ## Buenas prácticas
 
