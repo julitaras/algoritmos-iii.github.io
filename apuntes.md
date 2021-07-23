@@ -1,7 +1,52 @@
 ---
 layout: page
 title: Apuntes
+pdf_options:
+  format: a4
+  margin: 30mm 20mm
+  printBackground: true
+  headerTemplate: |-
+    <style>
+      section {
+        margin: 0 auto;
+        font-family: system-ui;
+        font-size: 11px;
+      }
+    </style>
+    <section>
+      <span class="date"></span>
+    </section>
+  footerTemplate: |-
+    <section>
+      <div>
+        Page <span class="pageNumber"></span>
+        of <span class="totalPages"></span>
+      </div>
+    </section>
 ---
+<script>
+//const fs = require('fs');
+import { fs } from 'fs';
+import { mdToPdf } from 'md-to-pdf';
+
+// (async getPDF() => {
+// 	const pdf = await mdToPdf({ path: './apuntes.md' }).catch(console.error);
+
+// 	if (pdf) {
+// 		fs.writeFileSync(pdf.filename, pdf.content);
+// 	}
+// })();
+
+async function getPDF() {
+    const pdf = await mdToPdf({ path: './apuntes.md' }).catch(console.error);
+
+	if (pdf) {
+		fs.writeFileSync(pdf.filename, pdf.content);
+	}
+}
+</script>
+
+<button type="button" onclick="getPDF()">Click Me!</button>
 
 * toc
 {:toc}
