@@ -239,7 +239,7 @@ El punto separa las colaboraciones. Es una forma de decir que viene otra colabor
 - Crear siempre objetos completos
 - Crear siempre objetos válidos
 - Favorecer objetos inmutables
-- No usar nil
+- No usar `nil`
 
 ## Técnicas
 
@@ -279,9 +279,9 @@ El punto separa las colaboraciones. Es una forma de decir que viene otra colabor
 - Object Recursion
 - Observer
 
-Consultar bibliografía de la materia para profundizar, junto con los ejemplos vistos en clase (https://github.com/algoritmos-iii/ejercicios-en-clase-2021-1c)
+Consultar bibliografía de la materia para profundizar, junto con los [ejemplos vistos en clase](https://github.com/algoritmos-iii/ejercicios-en-clase-2021-1c)
 
 ## Buenas prácticas
 
-- Definir mensajes abstractos de forma explícita (en Smalltalk: self subclassResponsibility)
+- Definir mensajes abstractos de forma explícita (en Smalltalk: `self subclassResponsibility`)
 - Categorizar mensajes de forma cohesiva, utilizando "private" para aquellos mensajes que no forman parte del protocolo escencial (público) del objeto.
