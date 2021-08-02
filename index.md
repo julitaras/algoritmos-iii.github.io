@@ -31,6 +31,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 ## Promoción
 
 - Para acceder al régimen de promoción, es necesario contar con una nota final mayor o igual a 7. La nota final es el promedio entre las notas de los ejercicios y las de los parciales (y recuperatorios, si corresponde).
+  - Nota: Los promedios intermedios (de parciales y de los ejercicios) NO se redondean previo al cálculo final. Sólo se redondea la nota de cursada al 0.5 más cercano. Ej: 6.63 se redondea a 6.5 y 6.82 a 7.
 
 ## Canales de consultas
 
