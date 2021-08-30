@@ -35,15 +35,15 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
 ## Canales de consultas
 
-- Envíando un mail a la lista de correos: fiuba-algoritmos-iii@googlegroups.com
+- Envíando un mail a la lista de correos: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiuba-algoritmos-iii@googlegroups.com" target="_blank"> fiuba-algoritmos-iii@googlegroups.com </a>
 - Por nuestro [canal de discord](https://discord.gg/yPdNkej).
 
 Recuerden por favor realizar toda consulta por **canales públicos** (es decir NO por canales privados de Discord ni por la lista docentes), así ayudan a otros a despejar esa misma duda o incluso ayudar a un compañero/a con alguna duda que tenga.
 
-## Contactanos
+## Contactanos <img alt="github icon" width="22px" src="./assets/icons/contact-us.svg" /> 
 
 - Si tenés alguna sugerencia o crítica, sea de alguna clase en particular o de la materia en sí, dejala [acá](https://docs.google.com/forms/d/e/1FAIpQLScqJ7gW8YZdc4a55hYbCRVBrZQsErJkLKN2eS1_vCzzNJlD0g/viewform)!
 
   - Este buzon es de caracter anónimo y nos va a servir para mejorar clase a clase, en vez de esperar a que termine el cuatrimestre.
 
-- Si querés comunicarte con los docentes por algun problema en particular, podés envíar un mail a la [lista de docentes](mailto:fiuba-algoritmos-iii-doc@googlegroups.com).
+- Si querés comunicarte con los docentes por algun problema en particular, podés envíar un mail a la <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiuba-algoritmos-iii-doc@googlegroups.com" target="_blank"> lista de docentes</a>.
