@@ -3,7 +3,7 @@ layout: page
 title: Bibliografía
 ---
 
-## Libros
+## Libros  <img alt="github icon" width="22px" src="https://icongr.am/clarity/book.svg?size=148&color=currentColor" /> 
 
 - Smalltalk Best Practices Patterns ~ Kent Beck
 
@@ -19,7 +19,7 @@ title: Bibliografía
 
 - Domain Driven Design ~ Eric Evans
 
-## Lecturas
+## Lecturas <img alt="github icon" width="22px" src="https://icongr.am/octicons/book.svg?size=128&color=currentColor" /> 
 
 - [Programming as Theory Building ~ Peter Naur](assets/bibliografia/programming-as-theory-building.pdf)
 
@@ -39,13 +39,13 @@ title: Bibliografía
 
 - [Fail Fast ~ Jim Shore](assets/bibliografia/fail-fast.pdf)
 
-### Complementarias
+### Complementarias <img alt="github icon" width="22px" src="https://icongr.am/octicons/book.svg?size=128&color=currentColor" /> 
 
 - [Blue Book ~ Adele Goldberg & David Robson](http://sdmeta.gforge.inria.fr/FreeBooks/BlueBook/Bluebook.pdf)
 
 - [Polimorphic Hierarchy ~ Booby Wolf](assets/bibliografia/polymorphic-hierarchy.pdf)
 
-## Videos
+## Videos <img alt="github icon" width="22px" src="https://icongr.am/clarity/film-strip.svg?size=148&color=currentColor" /> 
 
 - [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
 

@@ -13,14 +13,14 @@ Para la entrega de consignas y resoluciones de ejercicios utilizaremos GitHub y 
 
 ## Repositorio de la materia
 
-Pueden encontrar los enunciados de cada ejercicio en el [repositorio de ejercicios](https://github.com/algoritmos-iii/ejercicios-2021-2c)
- de la materia. De este repositorio se puede hacer un `fork` <img alt="github icon" width="17px" src="https://icongr.am/octicons/git-fork.svg?size=128&color=currentColor" /> de Github, o simplemente descargar los enunciados y archivos `.st` sueltos, y con eso cada grupo se arma su propio repositorio donde ira completando los ejercicios.
+Pueden encontrar los enunciados de cada ejercicio en el [repositorio de ejercicios](https://github.com/algoritmos-iii/ejercicios-2021-1c)
+ de la materia. De este repositorio se puede hacer un `fork` de Github, o simplemente descargar los enunciados y archivos `.st` sueltos, y con eso cada grupo se arma su propio repositorio donde ira completando los ejercicios.
  
 Iremos publicando los mismos con el correr de la cursada.
 
-## Fechas de Entrega <img alt="github icon" width="22px" src="https://icongr.am/fontawesome/calendar-times-o.svg?size=148&color=currentColor" /> 
+## Fechas de Entrega
 
-Las fechas de entrega figuran en el conograma de la materia. Todos los ejercicios deben entregarse **ANTES** del comienzo de la clase correspondiente, es decir, hasta las 19 hrs. No serán aceptados trabajos entregados luego de esa hora, ya que veremos en esa clase la resolución del ejercicio.
+Las fechas de entrega figuran en el conograma de la materia. Todos los ejercicios deben entregarse ANTES del comienzo de la clase correspondiente, es decir, hasta las 19 hrs. No serán aceptados trabajos entregados luego de esa hora, ya que veremos en esa clase la resolución del ejercicio.
 
 ## Forma de Entrega
 

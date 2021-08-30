@@ -4,7 +4,7 @@ layout: home
 
 Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
-# 2021 - 2do Cuatrimestre
+# 2021 - 1er Cuatrimestre
 
 ## Cursada
 
