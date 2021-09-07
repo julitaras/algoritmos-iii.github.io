@@ -8,7 +8,8 @@ title: Apuntes
 
 # Presentaciones <img alt="github icon" width="20px" src="./assets/icons/presentacion.svg" />
 
-Esta sección se irá completando con el correr del cuatrimestre.
+- [01 Introducción a la materia](https://docs.google.com/presentation/d/1oXnG-KJhbHNy5SLdYjQetmHMcFLWkKBVTNywqR82Re0/edit?usp=sharing)
+- [01B Introducción al desarrollo de software](https://docs.google.com/presentation/d/1X82-qzvCwKpHHTk1WhoQIxVXX7elN_stJ2Es82xxeGQ/edit?usp=sharing)
 
 # Ejercicios en clase <img alt="github icon" width="20px" src="./assets/icons/practica.svg" />
 
