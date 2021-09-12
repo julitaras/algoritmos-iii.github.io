@@ -21,7 +21,7 @@ title: Bibliografía
 
 ## Lecturas <img alt="github icon" width="22px" src="https://icongr.am/octicons/book.svg?size=128&color=currentColor" /> 
 
-- [Programming as Theory Building ~ Peter Naur](assets/bibliografia/programming-as-theory-building.pdf)
+- [Programming as Theory Building ~ Peter Naur](assets/bibliografia/programming-as-theory-building.pdf) - [Traducción al Español](assets/bibliografia/la-programacion-como-construccion-de-teoria.pdf)
 
 - [No Silver Bullet ~ Frederick P. Brooks](assets/bibliografia/no-silver-bullet.pdf) - [Traducción al Español](https://gist.github.com/esparta/582e43af7b803e0aaf69)
 
