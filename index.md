@@ -44,7 +44,7 @@ Recuerden por favor realizar toda consulta por **canales públicos** (es decir N
 
 ## Contactanos <img alt="github icon" width="22px" src="./assets/icons/contact-us.svg" /> 
 
-- Si tenés alguna sugerencia o crítica, sea de alguna clase en particular o de la materia en sí, dejala [acá](https://docs.google.com/forms/d/e/1FAIpQLScqJ7gW8YZdc4a55hYbCRVBrZQsErJkLKN2eS1_vCzzNJlD0g/viewform)!
+- Si tenés alguna sugerencia o crítica, sea de alguna clase en particular o de la materia en sí, dejala [acá](https://forms.gle/WgWQPYsmH7D9bR4W9)!
 
   - Este buzon es de caracter anónimo y nos va a servir para mejorar clase a clase, en vez de esperar a que termine el cuatrimestre.
 
