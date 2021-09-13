@@ -1,0 +1,9 @@
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
+
+.site-header {
+	background: linear-gradient(118deg, rgba(68,69,113,1) 0%, rgba(68,135,193,1) 33%, rgba(85,173,221,1) 65%, rgba(108,212,202,1) 100%);
+}
