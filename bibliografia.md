@@ -23,13 +23,13 @@ title: Bibliografía
 
 - [Programming as Theory Building ~ Peter Naur](assets/bibliografia/programming-as-theory-building.pdf) - [Traducción al Español](assets/bibliografia/la-programacion-como-construccion-de-teoria.pdf)
 
-- [The design of everyday things ~ Donald Norman](assets/bibliografia/the-design-of-everyday-things.pdf) -[Traducción al Español](assets/bibliografia/la-psicologia-de-los-objetos-cotidianos.pdf)
+- [The design of everyday things ~ Donald Norman](assets/bibliografia/the-design-of-everyday-things.pdf) - [Traducción al Español](assets/bibliografia/la-psicologia-de-los-objetos-cotidianos.pdf)
 
 - [No Silver Bullet ~ Frederick P. Brooks](assets/bibliografia/no-silver-bullet.pdf) - [Traducción al Español](https://gist.github.com/esparta/582e43af7b803e0aaf69)
 
 - [Design Principles Behind Smalltalk ~ Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - [Traducción al Español](https://drive.google.com/file/d/1O6eT8gYyoJQzi09K8nqp22vkR8wfNKWH/view)
 
-- [Polimorphic Hierarchy ~ Booby Wolf](assets/bibliografia/polymorphic-hierarchy.pdf)
+- [Polymorphic Hierarchy ~ Bobby Woolf](assets/bibliografia/polymorphic-hierarchy.pdf)
 
 - [A Simple Technique for Handling Multiple Polymorphism ~ Dan Ingalls](assets/bibliografia/simple-technique-for-handling-multiple-polymorphism.pdf)
 
