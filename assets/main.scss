@@ -4,7 +4,7 @@
 @import "minima";
 
 .site-header{ 
-	background: linear-gradient(118deg, rgba(68,69,113,1) 0%, rgba(68,135,193,1) 33%, rgba(85,173,221,1) 65%, rgba(108,212,202,1) 100%);
+	background-image: linear-gradient(120deg, #1154a7, #12c66c);
 	padding-top: 5px;
     padding-bottom: 5px;
     position: fixed;
@@ -14,36 +14,28 @@
 }
 
 .page-content .wrapper {
-    padding-top: 65px;
+    padding-top: 65px
 }
-   
-.site-nav .page-link { 
-	color: white;
+
+.site-nav .page-link {
+    color: white
 }
 
 @media screen and (max-width: 600px) {
     .site-nav .page-link {
-        color: black
+        color:#000
     }
 }
 
 .page-content h2 {
-    background-color: rgb(183,164,29);
-    color: white;
-    padding-left: 10px;
-    display: block;
-    font-size: 1.6em;
-    padding-bottom: 2px;
+    font-size: 30px;
+    font-weight: 450px;
+    color: #159957;
 }
 
 .post-content h3 {
-	color: black;
-    font-size: 25px;
-}
-
-.site-footer {
-    background-color: rgb(26,33,56); 
-    color: white;
+    color: #159957;
+    font-size: 25px
 }
 
 .site-header img {
