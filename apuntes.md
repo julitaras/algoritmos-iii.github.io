@@ -13,7 +13,7 @@ title: Apuntes
 
 ## Ejercicios en clase <img alt="github icon" width="20px" src="./assets/icons/practica.svg" />
 
-Pueden encontrarlos en el repo de [Ejercicios en clase](https://github.com/algoritmos-iii/ejercicios-en-clase)
+Pueden encontrarlos en el repo de [Ejercicios en clase](https://github.com/algoritmos-iii/ejercicios-en-clase-2021-2c)
 
 ## Git <img alt="github icon" width="20px" src="https://icongr.am/devicon/git-plain.svg?size=148&color=currentColor" />
 
