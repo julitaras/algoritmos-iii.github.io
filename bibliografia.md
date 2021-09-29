@@ -49,6 +49,6 @@ title: Bibliografía
 
 ## Videos <img alt="github icon" width="22px" src="https://icongr.am/clarity/film-strip.svg?size=148&color=currentColor" /> 
 
-- [Bret Victor - Inventing on Principle](https://vimeo.com/36579366)
+- [Bret Victor - Inventing on Principle](https://www.youtube.com/watch?v=8QiPFmIMxFc)
 
 - [Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?v=NP9AIUT9nos)
