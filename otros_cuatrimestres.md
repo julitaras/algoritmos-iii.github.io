@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Otros cuatrimestres
+title: Otros
 ---
 
 Esta sección contiene información para los alumnos de cuatrimestres anteriores

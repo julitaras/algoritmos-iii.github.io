@@ -35,7 +35,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 - Nota final = Promedio (redondeado) entre: promedio parciales y promedio ejercicios.
 - Se puede promocionar aún recuperando. El recuperatorio reemplaza la nota del parcial (si se recupera ambos, reemplaza sólo la nota del 2do).
 
-## Canales de consultas
+## Canales de consultas <a name="canales-consultas"></a>
 
 - Envíando un mail a la lista de correos: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiuba-algoritmos-iii@googlegroups.com" target="_blank"> fiuba-algoritmos-iii@googlegroups.com </a>
 - Por nuestro [canal de discord](https://discord.gg/yPdNkej).
