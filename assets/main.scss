@@ -1,0 +1,54 @@
+---
+---
+
+@import "minima";
+
+.site-header{ 
+    background-image: linear-gradient(120deg, #155799, #159957);
+    border-top: 0px;
+    border-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100; 
+}
+
+.page-content .wrapper {
+    padding-top: 65px;
+}
+
+.site-nav .page-link {
+    color: white;
+}
+
+@media screen and (max-width: 600px) {
+    .site-nav .page-link {
+        color:#111;
+    }
+}
+
+.page-content h1 {
+    color: #111;
+}
+
+.page-content h2 {
+    font-size: 28px;
+    font-weight: 450px;
+    color: #159957;
+}
+
+.page-content h3 {
+    color: #159957;
+    font-size: 23px;
+    padding-left: 10px;
+}
+
+.site-header img {
+    /* svg on an img tag */
+    -webkit-filter: invert(1);
+    /* safari 6.0 - 9.0 */
+    filter: invert(1);
+}
+
