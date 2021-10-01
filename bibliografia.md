@@ -31,7 +31,7 @@ title: Bibliografía
 
 - [Polymorphic Hierarchy ~ Bobby Woolf](assets/bibliografia/polymorphic-hierarchy.pdf)
 
-- [A Simple Technique for Handling Multiple Polymorphism ~ Dan Ingalls](assets/bibliografia/simple-technique-for-handling-multiple-polymorphism.pdf)
+- [A Simple Technique for Handling Multiple Polymorphism ~ Daniel H. H. Ingalls](assets/bibliografia/simple-technique-for-handling-multiple-polymorphism.pdf) - [Traducción al Español](assets/bibliografia/una-tecnica-simple-para-manejar-polimorfismo-multiple.pdf)
 
 - [Null Object Pattern ~ Bobby Woolf](assets/bibliografia/null-object-pattern.pdf)
 
