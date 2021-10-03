@@ -29,7 +29,7 @@ title: Bibliografía
 
 - [Design Principles Behind Smalltalk ~ Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - [Traducción al Español](https://drive.google.com/file/d/1O6eT8gYyoJQzi09K8nqp22vkR8wfNKWH/view)
 
-- [Polymorphic Hierarchy ~ Bobby Woolf](assets/bibliografia/polymorphic-hierarchy.pdf)
+- [Polymorphic Hierarchy ~ Bobby Woolf](assets/bibliografia/polymorphic-hierarchy.pdf) - [Traducción al Español](assets/bibliografia/jerarquía-polimórfica.pdf)
 
 - [A Simple Technique for Handling Multiple Polymorphism ~ Dan Ingalls](assets/bibliografia/simple-technique-for-handling-multiple-polymorphism.pdf)
 
