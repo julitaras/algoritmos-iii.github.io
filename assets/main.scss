@@ -3,55 +3,72 @@
 
 @import "minima";
 
-.site-header{ 
-    background-image: linear-gradient(120deg, #155799, #159957);
-    border-top: 0px;
-    border-bottom: 0px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 100; 
+.site-header {
+  background-image: linear-gradient(120deg, #155799, #159957);
+  border-top: 0px;
+  border-bottom: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100;
 }
 
 .page-content .wrapper {
-    padding-top: 65px;
+  padding-top: 65px;
 }
 
 .site-nav .page-link {
-    color: white;
+  color: white;
 }
 
 @media screen and (max-width: 600px) {
-    .site-nav .page-link {
-        color:#111;
-    }
+  .site-nav .page-link {
+    color: #111;
+  }
 }
 
 .page-content h1 {
-    color: #111;
+  color: #111;
 }
 
 .page-content h2 {
-    font-size: 24px;
-    font-weight: 450px;
-    color: #159957;
+  font-size: 24px;
+  font-weight: 450px;
+  color: #159957;
 }
 
 .page-content h3 {
-    color: #159957;
-    font-size: 19px;
-    padding-left: 10px;
+  color: #159957;
+  font-size: 19px;
+  padding-left: 10px;
+}
+
+.page-content h4 {
+  font-size: 17px;
+  padding-left: 10px;
+  font-weight: 600;
+}
+
+.sub-h4 {
+  color: #666666;
+  padding-left: 12px;
+  font-weight: 450;
+  
+}
+
+.sub-sub{
+  padding-left: 12px;
 }
 
 .site-header img {
-    /* svg on an img tag */
-    -webkit-filter: invert(1);
-    /* safari 6.0 - 9.0 */
-    filter: invert(1);
+  /* svg on an img tag */
+  -webkit-filter: invert(1);
+  /* safari 6.0 - 9.0 */
+  filter: invert(1);
 }
 
 .text-muted {
-    color: #6c757d
+  color: #6c757d;
 }
