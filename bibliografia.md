@@ -33,7 +33,7 @@ title: Bibliografía
 
 - [A Simple Technique for Handling Multiple Polymorphism ~ Daniel H. H. Ingalls](assets/bibliografia/simple-technique-for-handling-multiple-polymorphism.pdf) - [Traducción al Español](assets/bibliografia/una-tecnica-simple-para-manejar-polimorfismo-multiple.pdf)
 
-- [Null Object Pattern ~ Bobby Woolf](assets/bibliografia/null-object-pattern.pdf)
+- [Null Object Pattern ~ Bobby Woolf](assets/bibliografia/null-object-pattern.pdf) - [Traducción al Español](assets/bibliografia/objeto-nulo-bobby-woolf.pdf)
 
 - [The Object Recursion Pattern ~ Bobby Woolf](assets/bibliografia/object-recusion-pattern.pdf)
 
