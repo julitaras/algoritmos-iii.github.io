@@ -204,6 +204,12 @@ El punto separa las colaboraciones. Es una forma de decir que viene otra colabor
 5. Reemplazar el if por el envío del mensaje polimórfico.
 6. Buscar el objeto polimórfico (si es necesario)
 
+#### TDD
+
+1. Escribir el test más sencillo que se me ocurra.
+2. Correrlo para comprobar que falle y hacerlo pasar con la implementación más simple posible.
+3. Reflexionar. ¿Se puede mejorar? Si es así, refactorizar.
+
 ## Buenas prácticas
 
 - Definir mensajes abstractos de forma explícita (en Smalltalk: `self subclassResponsibility`)
