@@ -35,7 +35,7 @@ title: Bibliografía
 
 - [Null Object Pattern ~ Bobby Woolf](assets/bibliografia/null-object-pattern.pdf) - [Traducción al Español](assets/bibliografia/objeto-nulo-bobby-woolf.pdf)
 
-- [The Object Recursion Pattern ~ Bobby Woolf](assets/bibliografia/object-recusion-pattern.pdf)
+- [The Object Recursion Pattern ~ Bobby Woolf](assets/bibliografia/object-recusion-pattern.pdf) - [Traducción al Español](assets/bibliografia/object-recursion-esp.pdf)
 
 - [Method Object (Smalltalk Best Practice Patterns, Chapter 3) ~ Kent Beck](assets/bibliografia/method-object.pdf)
 
