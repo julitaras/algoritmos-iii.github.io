@@ -181,7 +181,6 @@ El punto separa las colaboraciones. Es una forma de decir que viene otra colabor
 - Guiarnos por el aspecto funcional conduce a buenos modelos.
 - Evitar romper encapsulamiento.
 - Nombrar a los objetos (colaboradores externos e internos) según el rol que cumplen en cada contexto.
-- Evitar romper encapsulamiento
 - Código repetido: Señal de que nos falta una abstracción.
 - Evitar subclasificar de clases concretas.
 - Pensar primero en composición/delegación por sobre subclasificación al momento de reutilizar código.
