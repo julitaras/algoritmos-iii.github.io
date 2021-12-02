@@ -37,7 +37,7 @@ title: Bibliografía
 
 - [The Object Recursion Pattern ~ Bobby Woolf](assets/bibliografia/object-recusion-pattern.pdf) - [Traducción al Español](assets/bibliografia/object-recursion-esp.pdf)
 
-- [Method Object (Smalltalk Best Practice Patterns, Chapter 3) ~ Kent Beck](assets/bibliografia/method-object.pdf)
+- [Method Object (Smalltalk Best Practice Patterns, Chapter 3) ~ Kent Beck](assets/bibliografia/method-object.pdf) - [Traducción al Español](assets/bibliografia/Method-object-esp.pdf)
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](assets/bibliografia/intro-design-patterns.pdf)
 
