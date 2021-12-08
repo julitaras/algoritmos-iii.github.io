@@ -39,7 +39,7 @@ title: Bibliografía
 
 - [Method Object (Smalltalk Best Practice Patterns, Chapter 3) ~ Kent Beck](assets/bibliografia/method-object.pdf) - [Traducción al Español](assets/bibliografia/Method-object-esp.pdf)
 
-- [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](assets/bibliografia/intro-design-patterns.pdf)
+- [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](assets/bibliografia/intro-design-patterns.pdf) - [Traducción al Español](assets/bibliografia/intro-design-patterns-esp.pdf)
 
 ### Complementarias <img alt="github icon" width="22px" src="https://icongr.am/octicons/book.svg?size=128&color=currentColor" /> 
 
