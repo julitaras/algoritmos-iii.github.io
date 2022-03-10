@@ -9,9 +9,11 @@ title: Bibliografía
 
 - TDD by Example ~ Kent Beck
 
-- Object Thinking ~ David West
+- Modern Software Engineering ~ David Farley
 
 - Design Patterns: Elements of Reusable Object-Oriented Software ~ The Gang of Four
+
+- Object Thinking ~ David West
 
 - Smalltalk, Objects and Design ~ Chamond Liu
 
