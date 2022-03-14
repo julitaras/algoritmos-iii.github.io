@@ -8,9 +8,9 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
 ## Cursada
 
-- La materia se cursa los lunes y jueves de 19 a 22 hrs. La asistencia es fundamental.
+- La materia se cursa los Lunes y Jueves de 19 a 22 hrs. La asistencia es fundamental.
 
-- La cursada este cuatrimestre será híbrida presencial y virtual. Las clases de los días lunes serán presenciales, mientras que los jueves serán virtuales, con algunas excepciones ya determinadas en el conograma desde el inicio del cuatrimestre.
+- La cursada este cuatrimestre será híbrida presencial y virtual. Las clases de los días Lunes serán mayormente virtuales, mientras que los Jueves serán casi todos presenciales, con algunas excepciones ya determinadas en el cronograma desde el inicio del cuatrimestre.
 
 - Los parciales serán presenciales ya que permiten promocionar la materia, con excepción del 2do recuperatorio (que será virtual y no permite promoción).
 
