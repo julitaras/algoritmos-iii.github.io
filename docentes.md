@@ -2,6 +2,7 @@
 layout: page
 title: Docentes
 ---
+
 <style>
 .gallery {
   display: flex;
@@ -75,10 +76,10 @@ a:link {
     <div class="card-container">
       <h4>{{ docente.name }}</h4>
       <a href="https://github.com/{{docente.github}}" target="_blank">
-        <img alt="github icon" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=4a4a48" />
+        <img alt="github icon" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=7c7c7c" />
       </a>
       <a href="https://mail.google.com/mail/?view=cm&fs=1&to={{docente.email}}" target="_blank">
-        <img alt="email icon" width="22px" src="https://icongr.am/clarity/email.svg?size=128&color=4a4a48" />
+        <img alt="email icon" width="22px" src="https://icongr.am/clarity/email.svg?size=128&color=7c7c7c" />
       </a>
     </div>
   </div>

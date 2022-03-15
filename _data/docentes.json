@@ -120,15 +120,33 @@
         "profile-image": "./assets/docentes/JoaquinP.jpeg"
     },
     {
-        "name": "Sebastian Aznarez",
-        "github": "sebideth",
-        "email": "saznarez@fi.uba.ar",
-        "profile-image": "./assets/docentes/SebastianA.jpg"
+        "name": "Lautaro D'abbraccio",
+        "github": "Llaauuttyy",
+        "email": "ldabbraccio@fi.uba.ar",
+        "profile-image": "./assets/docentes/LautaroD.jpeg"
     },
     {
         "name": "Felipe Marelli",
         "github": "FelipeMarelli",
         "email": "fmarelli@fi.uba.ar",
         "profile-image": "./assets/docentes/FelipeM.jpeg"
+    },
+    {
+        "name": "Roberta Sprenger",
+        "github": "robyspr",
+        "email": "rsprenger@fi.uba.ar",
+        "profile-image": "./assets/docentes/RobertaS.jpg"
+    },
+    {
+        "name": "Simón Stein",
+        "github": "stein257",
+        "email": "sstein@fi.uba.ar",
+        "profile-image": "./assets/docentes/SimonS.jpg"
+    },
+    {
+        "name": "Ramiro Vera Guzman",
+        "github": "RamaVera",
+        "email": "rverag@fi.uba.ar",
+        "profile-image": "./assets/docentes/RamiroVG.jpg"
     }
 ]

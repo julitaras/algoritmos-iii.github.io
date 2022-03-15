@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Cronograma 
+title: Cronograma
 ---
 
-[Agregar cronograma a Google Calendar](https://calendar.google.com/calendar/u/0?cid=dGw0YWxnNTR0bTZyaWNtdmc4YTdzcDRydG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ){:target="_blank"}
-<iframe style="width:100%; height:100vh" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR7xMVQUQdL0l7u7qs7-N534Mc7YcINezsn2GkgPJR6ubfSr8aMDToLdKugIRM3Sg3Hm9JuxF6f5fXk/pubhtml?gid=668624469&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false&amp;range=A:K"></iframe>
+[Agregar cronograma a Google Calendar](#){:target="_blank"}
+
+<iframe width="100%" height="450vh" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrRHTbpi_rsOCjWoBYToAqnw4SAPrU1LXxezLuhFRxuSd70r5Mldzq5ueD4MwC1kcb7EBi9zUKOvwC/pubhtml?gid=809271685&amp;single=true&amp;widget=true&amp;headers=false&range=A:L"></iframe>
