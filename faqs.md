@@ -23,6 +23,10 @@ No, lamentablemente no podemos hacer alguna excepción sobre el criterio de prom
 
 Es posible rendir recuperatorio para subir la nota pero **desaconsejamos fuertemente** rendir recuperatorio para subir la nota, ya que rindiendo el recuperatorio se prondria en juego toda la cursada en caso de que se llegara a desaprobar. Sumado a que el recuperatorio es un parcial convencional mucho más largo y exigente en comparación con el final que se trata de un breve examen oral para "redondear" la nota de la cursada.
 
+## Quiero quedar en el curso pero dada mi prioridad no se si llego
+
+Durante la primer semana de clases el Departamento de Computación abre un formulario para que quienes necesiten un cambio de curso o se hayan anotado como condicionales puedan solicitar su inscripción a uno de los cursos de Algoritmos 3 por ese medio. Para eso es necesario anotarse a alguno de los cursos de la materia (o como condicional, si se agotan los cupos en todos). Una vez recibidas las solicitudes, se ordenan según la prioridad de cada estudiante y se asignan de acuerdo con los lugares disponibles en cada curso.
+
 <br><br>
 
 <p class="text-muted">Cualquier consulta no dudes en consultar. Fijate nuestros <a href="/#canales-consultas">canales de consultas</a></p>
