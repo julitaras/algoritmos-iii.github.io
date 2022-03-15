@@ -4,7 +4,7 @@
 
 Cualquier commit en el directorio raíz se auto-publica en la página al hacer push a la rama master. GitHub se encarga de ese proceso.
 
-Para visualizar los cambios de manera local, se debe instalar [Jekyl]l(https://jekyllrb.com/docs/).
+Para visualizar los cambios de manera local, se debe instalar [Jekyll](https://jekyllrb.com/docs/).
 
 ```sh
 gem install jekyll bundler
