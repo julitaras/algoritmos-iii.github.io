@@ -56,7 +56,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 ## Canales de consultas <a name="canales-consultas"></a>
 
 - Envíando un mail a la lista de correos: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fiuba-algoritmos-iii@googlegroups.com" target="_blank"> fiuba-algoritmos-iii@googlegroups.com </a>
-- Por nuestro [canal de discord](https://discord.gg/yPdNkej).
+- Por nuestro [canal de discord](https://discord.gg/3A5bbVKywa).
 
 Recuerden por favor realizar toda consulta por **canales públicos** (es decir NO por canales privados de Discord ni por la lista docentes), así ayudan a otros a despejar esa misma duda o incluso ayudar a un compañero/a con alguna duda que tenga.
 

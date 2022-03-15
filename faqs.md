@@ -9,7 +9,7 @@ Descargá el [certificado en la pagina de FIUBA](https://cms.fi.uba.ar/uploads/C
 
 ## Estoy matriculado en la materia pero no en el campus
 
-No te procupes! No vamos a utilizar el campus. Nos comunicaremos tanto por la lista de mail como por nuestro server de [discord](https://discord.gg/yPdNkej).
+No te procupes! No vamos a utilizar el campus. Nos comunicaremos tanto por la lista de mail como por nuestro server de [discord](https://discord.gg/3A5bbVKywa).
 
 ## Me anoté como condicional y quiero quedar en este curso
 
