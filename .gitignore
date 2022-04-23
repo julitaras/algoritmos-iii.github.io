@@ -16,3 +16,6 @@ Gemfile.lock
 .bundle
 
 /node_modules
+
+# File for ignoring folder or files in prettier
+.prettierignore
