@@ -27,6 +27,11 @@ Es posible rendir recuperatorio para subir la nota pero **desaconsejamos fuertem
 
 Durante la primer semana de clases el Departamento de Computación abre un formulario para que quienes necesiten un cambio de curso o se hayan anotado como condicionales puedan solicitar su inscripción a uno de los cursos de Algoritmos 3 por ese medio. Para eso es necesario anotarse a alguno de los cursos de la materia (o como condicional, si se agotan los cupos en todos). Una vez recibidas las solicitudes, se ordenan según la prioridad de cada estudiante y se asignan de acuerdo con los lugares disponibles en cada curso.
 
+
+## ¿Cómo me bajo una imagen nueva de cuis?
+
+Simplemnete descargando Cuis de nuevo o sino descomprimieendo nuevamente el archivo que bajaste en su momento con cuis.
+
 <br><br>
 
 <p class="text-muted">Cualquier consulta no dudes en consultar. Fijate nuestros <a href="/#canales-consultas">canales de consultas</a></p>

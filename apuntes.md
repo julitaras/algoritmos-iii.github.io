@@ -139,36 +139,36 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
 - Representan conjunto de colaboraciones.
 - Estan bindeados al contexto. El closure esta unido al contexto.
 
-Ejemplo:
+    Ejemplo:
 
-```smalltalk
-m1
-	|t1 myClosure|
-	t1 := 1.
-	myClosure := [t1 := t1 + 1].
-	^myClosure
-```
+    ```smalltalk
+    m1
+        |t1 myClosure|
+        t1 := 1.
+        myClosure := [t1 := t1 + 1].
+        ^myClosure
+    ```
 
-Si hago
+    Si hago
 
-```smalltalk
-m1 value.
-```
+    ```smalltalk
+    m1 value.
+    ```
 
-El resultado sera:
+    El resultado sera:
 
-```smalltalk
-m1 value. 2
-```
+    ```smalltalk
+    m1 value. 2
+    ```
 
-Si hago nuevamente 
+    Si hago nuevamente 
 
-```smalltalk
-m1 value.
-```
+    ```smalltalk
+    m1 value.
+    ```
 
-Devolvera:
+    Devolvera:
 
-```smalltalk
-m1 value. 3
-```
+    ```smalltalk
+    m1 value. 3
+    ```
