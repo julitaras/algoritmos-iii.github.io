@@ -8,8 +8,10 @@ title: Apuntes
 
 ## Presentaciones <img alt="github icon" width="20px" src="./assets/icons/presentacion.svg" />
 
-- [01 Introducción a la materia](https://docs.google.com/presentation/d/1oXnG-KJhbHNy5SLdYjQetmHMcFLWkKBVTNywqR82Re0/edit?usp=sharing)
-- [01B Introducción al desarrollo de software](https://docs.google.com/presentation/d/1X82-qzvCwKpHHTk1WhoQIxVXX7elN_stJ2Es82xxeGQ/edit?usp=sharing)
+- [01 Introducción a la materia](https://docs.google.com/presentation/d/1ST938Jz3ue72WwHPF8NED9oD8npSO91YCp-HT4ASvKk/edit?usp=sharing)
+- [01B Introducción al desarrollo de software](https://docs.google.com/presentation/d/1RzytcrdgN8_kpnF4EwwvqYrsV1UaE-uayCYpLiK8D4s/edit?usp=sharing)
+- [02 Historia de Smalltalk](https://docs.google.com/presentation/d/11n9qoshAkUwpw85IDaSIMsNzmMopCmdWh0ve0Vvotrg/edit?usp=sharing)
+- [08 Organización del conocimiento](https://docs.google.com/presentation/d/1xO-XXfD3g2DhVYWm_Ux3YIDY_tCURWM_nAjVxYEHnDs/edit?usp=sharing) 
 
 ## Ejercicios en clase <img alt="github icon" width="20px" src="./assets/icons/practica.svg" />
 
@@ -35,7 +37,7 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
 
 <p class="text-muted">Esta sección se irá completando con el correr del cuatrimestre, a medida que vayamos aprendiendo conceptos nuevos :) </p>
 
-## Conceptos fundamentales
+### Conceptos fundamentales
 
 #### Software / Programa:
 
@@ -56,7 +58,7 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
 - Feedback inmediato
 - "Todo es un objeto"
 
-#### Conceptos del paradigma
+### Conceptos del paradigma
 
 <p class="sub-h4 ">Objeto:</p>
 
@@ -76,14 +78,14 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
 
 - Implementación de un mensaje
 - Representa un conjunto de colaboraciones
-- Define el **CóMO**
+- Define el **COMO**
 - 1 mensaje -> 1 o más métodos asociados
 - Son objetos
 - `self`: Pseudo-variable que hace referencia al objeto receptor en el contexto de un método.
 
 <p class="sub-h4 ">Colaboradores:</p>
 
-- Otro objeto con el que un objeto colabora
+- Otro objeto con el que voy a colaborar. Relación de conocimiento. Variables.
 - También conocido como variables
 - Interno: Lo conozco siempre, relación de cercanía (variable de instancia)
 - Externo: Colabora para un mensaje puntual (parámetro)
@@ -132,7 +134,7 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
   distanceTo:
   ```
 
-<p class="sub-h4 "> Closure:</p>
+<p class="sub-h4 ">Closure:</p>
 
 - Objeto que representa un bloque de código
 - Diferencia con método: No está asociado a un mensaje (es anónimo)
@@ -172,3 +174,33 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
     ```smalltalk
     m1 value. 3
     ```
+    
+#### Subclasificación
+
+- Clase: Objeto que representa un concepto. Ej: Número, Auto.
+- Subclasificación: Nos sirve para organizar el conocimiento en jerarquías (Ontología de conocimientos)
+- Clase abstracta -> No tiene realizaciones concretas -> No existen entes de la realidad que puedo relacionar exclusivamente a ese concepto -> No existen instancias de esa clase.
+  - Tiene al menos un mensaje abstracto
+  - Mensajes abstracto: No tiene método asociado (en Smalltalk, creamos el método pero lo implementamos con "self subclassResponsibility")
+
+### Heurísticas de diseño
+
+- Modelar 1:1 entre ente de la realidad y objeto.
+- Buscamos que el conjunto de mensajes sea minimal -> Bajo acoplamiento, alta cohesión.
+- Guiarnos por el aspecto funcional conduce a buenos modelos.
+- Detectar y quitar código repetido para generar un nuevo conocimiento / hacer explícito un concepto ("reíficar")
+- Nombrar a los objetos (incluyendo colaboradores externos, internos, temporales) según el rol que cumplen en cada contexto.
+- Evitar romper encapsulamiento.
+- Favorecer composicion/delegacion por sobre subclasificacion/herencia.
+
+### Algoritmo para Quitar código repetido
+
+1. Copiar lo repetido a otro lado
+2. Parametrizar lo que cambia
+3. Nombrar la nueva abstraccion
+4. Usar la nueva abstraccion
+
+### Buenas prácticas
+
+- Categorizar los mensajes
+- Implementar mensajes abstractos con "self subclassResponsibility"
