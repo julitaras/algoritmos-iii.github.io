@@ -200,6 +200,15 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
 3. Nombrar la nueva abstraccion
 4. Usar la nueva abstraccion
 
+### Reemplazar if por polimorfismo
+
+1. Crear una jerarquía de clases con una clase por cada condición del if (si es que no existen).
+2. Mover el cuerpo del if de cada condición a cada abstracción del paso 1) utilizando un mensaje polimórfico.
+3. Nombrar el mensaje polimórfico.
+4. Nombrar las abstracciones generadas en el paso `1.`
+5. Reemplazar el if por el envío del mensaje polimórfico.
+6. Buscar el objeto polimórfico (si es necesario)
+
 ### Buenas prácticas
 
 - Categorizar los mensajes
