@@ -174,25 +174,48 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
     ```smalltalk
     m1 value. 3
     ```
-    
-#### Subclasificación
 
-- Clase: Objeto que representa un concepto. Ej: Número, Auto.
-- Subclasificación: Nos sirve para organizar el conocimiento en jerarquías (Ontología de conocimientos)
-- Clase abstracta -> No tiene realizaciones concretas -> No existen entes de la realidad que puedo relacionar exclusivamente a ese concepto -> No existen instancias de esa clase.
-  - Tiene al menos un mensaje abstracto
-  - Mensajes abstracto: No tiene método asociado (en Smalltalk, creamos el método pero lo implementamos con "self subclassResponsibility")
+<p class="sub-h4 ">Acerca de los métodos y mensajes en smalltalk </p>
 
-### Heurísticas de diseño
+  ```smalltalk
+  nombreMensaje
+    "comentarios"
+    |respuesta|
+    respuesta := 'Hello world'
+    ^respuesta
+  ```
 
-- Modelar 1:1 entre ente de la realidad y objeto.
-- Buscamos que el conjunto de mensajes sea minimal -> Bajo acoplamiento, alta cohesión.
-- Guiarnos por el aspecto funcional conduce a buenos modelos.
-- Detectar y quitar código repetido para generar un nuevo conocimiento / hacer explícito un concepto ("reíficar")
-- Nombrar a los objetos (incluyendo colaboradores externos, internos, temporales) según el rol que cumplen en cada contexto.
-- Evitar romper encapsulamiento.
-- Favorecer composicion/delegacion por sobre subclasificacion/herencia.
+  El `^` vendria a remplazar el `return`.
 
+  Se asigna el valor a una variable temporal con `:=` o tambien con `_`.
+
+  Las variables se declaran entre `| |`
+
+  Podemos concatenar strings a traves de `,`
+
+  El punto separa las colaboraciones. Es una forma de decir que viene otra colaboración luego del `.`
+
+## Otros conceptos importantes del paradigma
+
+### Subclasificación:
+
+  - Clase: Objeto que representa un concepto. Ej: Número, Auto.
+  - Subclasificación: Nos sirve para organizar el conocimiento en jerarquías (Ontología de conocimientos)
+  - Clase abstracta -> No tiene realizaciones concretas -> No existen entes de la realidad que puedo relacionar exclusivamente a ese concepto -> No existen instancias de esa clase.
+    - Tiene al menos un mensaje abstracto
+    - Mensajes abstracto: No tiene método asociado (en Smalltalk, creamos el método pero lo implementamos con "self subclassResponsibility")
+
+### Heurísticas de diseño:
+
+  - Modelar 1:1 entre ente de la realidad y objeto.
+  - Buscamos que el conjunto de mensajes sea minimal -> Bajo acoplamiento, alta cohesión.
+  - Guiarnos por el aspecto funcional conduce a buenos modelos.
+  - Detectar y quitar código repetido para generar un nuevo conocimiento / hacer explícito un concepto ("reíficar")
+  - Nombrar a los objetos (incluyendo colaboradores externos, internos, temporales) según el rol que cumplen en cada contexto.
+  - Evitar romper encapsulamiento.
+  - Favorecer composicion/delegacion por sobre subclasificacion/herencia.
+
+## Técnicas
 ### Algoritmo para Quitar código repetido
 
 1. Copiar lo repetido a otro lado

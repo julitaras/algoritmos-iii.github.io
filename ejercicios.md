@@ -24,10 +24,17 @@ Las fechas de entrega figuran en el conograma de la materia. Todos los ejercicio
 
 ## Forma de Entrega
 
-Todos los ejercicios deben ser entregados a través del repositorio de cada grupo. Deben respetar la misma estructura de directorios que el repo de la materia. El código debe ser entregado en formato `.st`, hacíendo "file out" de la categoría correspondiente.
+Todos los ejercicios deben ser entregados a través del repositorio de cada grupo. Deben respetar la misma estructura de directorios que el repo de la materia. El código debe ser entregado en formato `.st`, hacíendo **`file out`** de la categoría correspondiente.
 
 Una vez terminado el ejercicio, hay que hacer un **release**. Para esto, hay que ir al repositorio del grupo, y clickear en `Create a new release` (o directamente, dirigirse a `github.com/<usuario>/<repositorio>/releases/new`). Ahí, se elige un titulo para el release (el nombre del ejercicio) y se publica. Esto va a generar un `.zip` con una copia del repositorio en la branch `main` al día. Es decir, asegurense que su ultimo commit en master tenga la entrega final!!
 
-Este release (que debe estar publicado para la fecha de entrega) lo va a descargar su corrector, correr en su entorno, corregirlo, y les va a informar por mail las correcciones.
+Este release (que debe estar publicado para la fecha de entrega) lo va a descargar su corrector, correr en su entorno, corregirlo, y finalmente su correccion va a llegar por mail.
 
-Asegúrense de probar que su código funcione correctamente en una imágen limpia de Cuis antes de realizar la entrega final.
+**Asegúrense de probar que su código funcione correctamente en una imágen limpia de Cuis antes de realizar la entrega final.**
+
+<img alt="github icon" width="25px" src="./assets/icons/advertencia.png" /> Recuerden que si no saben como crear una nueva release/ utilizar GitHub / utilizar git puede ver nuetro taller explicativo junto con su <a href="{{ '/apuntes.html' | relative_url }}">apunte</a> o tambien consultarnos por discrod o mail.
+
+## Recomendaciones post entrega <img alt="github icon" width="25px" src="./assets/icons/bueno.png" />
+
+1. Bajar el archivo subido en la release
+2. Hacer **`file in`** en una imagen limpia de Cuis y ver que este todo bien.

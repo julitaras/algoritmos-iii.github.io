@@ -30,7 +30,7 @@ Durante la primer semana de clases el Departamento de Computación abre un formu
 
 ## ¿Cómo me bajo una imagen nueva de cuis?
 
-Simplemnete descargando Cuis de nuevo o sino descomprimieendo nuevamente el archivo que bajaste en su momento con cuis.
+Simplemente descargando Cuis de nuevo o sino descomprimieendo nuevamente el archivo que bajaste en su momento. Fijate en la seccion <a href="{{ '/cuis.html' | relative_url }}">Cuis</a>
 
 <br><br>
 
