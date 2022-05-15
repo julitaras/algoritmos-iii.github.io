@@ -11,7 +11,8 @@ title: Apuntes
 - [01 Introducción a la materia](https://docs.google.com/presentation/d/1ST938Jz3ue72WwHPF8NED9oD8npSO91YCp-HT4ASvKk/edit?usp=sharing)
 - [01B Introducción al desarrollo de software](https://docs.google.com/presentation/d/1RzytcrdgN8_kpnF4EwwvqYrsV1UaE-uayCYpLiK8D4s/edit?usp=sharing)
 - [02 Historia de Smalltalk](https://docs.google.com/presentation/d/11n9qoshAkUwpw85IDaSIMsNzmMopCmdWh0ve0Vvotrg/edit?usp=sharing)
-- [08 Organización del conocimiento](https://docs.google.com/presentation/d/1xO-XXfD3g2DhVYWm_Ux3YIDY_tCURWM_nAjVxYEHnDs/edit?usp=sharing) 
+- [08 Organización del conocimiento](https://docs.google.com/presentation/d/1xO-XXfD3g2DhVYWm_Ux3YIDY_tCURWM_nAjVxYEHnDs/edit?usp=sharing)
+- [16 Testing Funcional](https://drive.google.com/file/d/1E9AvAHDNfYs2KS8A8yzLZpXxQNe2VbxQ/view?usp=sharing) 
 
 ## Ejercicios en clase <img alt="github icon" width="20px" src="./assets/icons/practica.svg" />
 
