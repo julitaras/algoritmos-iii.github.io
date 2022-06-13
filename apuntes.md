@@ -233,7 +233,7 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
 5. Reemplazar el if por el envío del mensaje polimórfico.
 6. Buscar el objeto polimórfico (si es necesario)
 
-#### TDD
+### TDD
 
 1. Escribir el test más sencillo que se me ocurra.
 2. Correrlo para comprobar que falle y hacerlo pasar con la implementación más simple posible.
