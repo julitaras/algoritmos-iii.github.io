@@ -13,6 +13,7 @@ title: Apuntes
 - [02 Historia de Smalltalk](https://docs.google.com/presentation/d/11n9qoshAkUwpw85IDaSIMsNzmMopCmdWh0ve0Vvotrg/edit?usp=sharing)
 - [08 Organización del conocimiento](https://docs.google.com/presentation/d/1xO-XXfD3g2DhVYWm_Ux3YIDY_tCURWM_nAjVxYEHnDs/edit?usp=sharing)
 - [16 Testing Funcional](https://drive.google.com/file/d/1E9AvAHDNfYs2KS8A8yzLZpXxQNe2VbxQ/view?usp=sharing) 
+- [17 Intro a TDD](https://docs.google.com/presentation/d/1-lj4R9sZpwv55WtwOqcd-YCeBfIIBqOfq0dgP7R8jW4/edit?usp=sharing)
 
 ## Ejercicios en clase <img alt="github icon" width="20px" src="./assets/icons/practica.svg" />
 
