@@ -12,7 +12,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
 - La cursada este cuatrimestre será híbrida presencial y virtual. Las clases de los días Lunes serán mayormente virtuales, mientras que los Jueves serán casi todos presenciales, con algunas excepciones ya determinadas en el cronograma desde el inicio del cuatrimestre.
 
-- Los parciales serán presenciales ya que permiten promocionar la materia, con excepción del 2do recuperatorio (que será virtual y no permite promoción).
+- Los parciales serán presenciales.
 
 ## Parciales, ejercicios grupales y lecturas
 
@@ -20,7 +20,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
 - Hay 2 examenes parciales. El primero, promediando la cursada, y el segundo, que integra todos los temas, será al finalizar la cursada.
 
-- Además de los parciales y ejercicios, durante la cursada habrá 10 papers (o capítulos de libros) a leer para distintas clases. Habrá cuestionarios (tipo quiz) durante la cursada para evaluar las lecturas. Quienes obtengan un 75% (o más) de respuestas correctas sumarán para el 2do parcial (o recuperatorio) medio punto adicional (0.5) por cada 3 cuestionarios que cumplan este criterio. Estos puntos sevirán para la promoción, y no pueden ser usados para aprobar el 2do parcial (es decir, se sumarán sólo en caso de haber aprobado el parcial).
+- Además de los parciales y ejercicios, durante la cursada habrá 10 papers (o capítulos de libros) a leer para distintas clases. Habrá cuestionarios (tipo quiz) durante la cursada para evaluar las lecturas. Quienes obtengan un 75% (o más) de respuestas correctas sumarán para el 2do parcial (o 1er recuperatorio) medio punto adicional (0.5) por cada 3 cuestionarios que cumplan este criterio. Estos puntos sevirán para la promoción, y no pueden ser usados para aprobar el 2do parcial (es decir, se sumarán sólo en caso de haber aprobado el parcial).
 
 ## Criterio de Aprobación
 
@@ -30,20 +30,20 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
 ### Recuperatorios
 
-- En caso de desaprobar el 2do parcial, se deberá rendir un recuperatorio, después del 2do parcial.
+- En caso de desaprobar el 2do parcial, se deberá rendir un recuperatorio, después del 2do parcial. Este recuperatorio reemplaza la nota del 2do parcial.
 
-- Quienes desaprueben el 1er recuperatorio, contarán con un 2do recuperatorio.
+- Quienes desaprueben el 1er recuperatorio, contarán con un 2do recuperatorio. Este 2do recuperatorio sólo servirá para aprobar la cursada, pero no para promociónar.
 
-- Cada recuperatorio rendido reemplaza siempre la nota de la instancia anterior.
-
-- Los ejercicios y el 1er parcial, dado que no son condición para aprobar la materia sino sólo para promocionar, NO tienen instancia de recuperatorio.
+- Los ejercicios y el 1er parcial, dado que no son condición para aprobar la cursada sino sólo para promocionar, NO tienen instancia de recuperatorio.
 
 ## Promoción
 
 - La nota de cursada se calcula como el promedio redondeado (ver debajo) entre:
-  - Nota del 2do parcial (o del 1er o 2do recuperatorio).
+  - Nota del 2do parcial (o del 1er recuperatorio).
   - Nota de los ejercicios prácticos + 1er parcial. Esta nota se calcula del siguiente modo:
     - Suma de nota de los ejercicios * 0.7 + Nota del 1er parcial * 0.3 (es decir, los 7 ejercicios representan el 70% de la nota y el 1er parcial, el 30% restante).
+
+- En caso de que el cálculo de la nota de cursada sea menor a 4, pero se haya aprobado el 2do parcial o algún recuperatorio, será 4 la nota de cursada.
 
 - Para promocionar, se deben cumplir las siguientes 2 condiciones:
   - Nota del 2do parcial >= 7 (o del 1er recuperatorio).
