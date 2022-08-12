@@ -13,7 +13,7 @@ Para la entrega de consignas y resoluciones de ejercicios utilizaremos GitHub y 
 
 ## Repositorio de la materia
 
-Pueden encontrar los enunciados de cada ejercicio en el [repositorio de ejercicios](https://github.com/algoritmos-iii/ejercicios-2022-1c)
+Pueden encontrar los enunciados de cada ejercicio en el [repositorio de ejercicios](https://github.com/algoritmos-iii/ejercicios-2022-2c)
 de la materia. De este repositorio se puede hacer un `fork` <img alt="github icon" width="17px" src="https://icongr.am/octicons/git-fork.svg?size=128&color=currentColor" /> de Github, o simplemente descargar los enunciados y archivos `.st` sueltos, y con eso cada grupo se arma su propio repositorio donde ira completando los ejercicios.
 
 _Iremos publicando los mismos con el correr de la cursada._

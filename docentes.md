@@ -72,7 +72,11 @@ a:link {
 <div class="gallery">
 {%- for docente in site.data.docentes -%}
   <div class="card">
+    {% if docente.profile-image == "" %}
+    <img src="./assets/docentes/default.png" alt="image" class="profile"/>
+    {% else %}
     <img src="{{docente.profile-image | relative_url }}" alt="image" class="profile"/>
+    {% endif %}
     <div class="card-container">
       <h4>{{ docente.name }}</h4>
       <a href="https://github.com/{{docente.github}}" target="_blank">
