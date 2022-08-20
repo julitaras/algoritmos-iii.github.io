@@ -32,7 +32,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
 - En caso de desaprobar el 2do parcial, se deberá rendir un recuperatorio, después del 2do parcial. Este recuperatorio reemplaza la nota del 2do parcial.
 
-- Quienes desaprueben el 1er recuperatorio, contarán con un 2do recuperatorio. Este 2do recuperatorio sólo servirá para aprobar la cursada, pero no para promociónar.
+- Quienes desaprueben el 1er recuperatorio, contarán con un 2do recuperatorio. Este 2do recuperatorio sólo servirá para aprobar la cursada, pero no para promocionar. Tampoco se considerará esta nota para la nota de cursada.
 
 - Los ejercicios y el 1er parcial, dado que no son condición para aprobar la cursada sino sólo para promocionar, NO tienen instancia de recuperatorio.
 

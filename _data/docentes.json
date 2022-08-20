@@ -3,7 +3,8 @@
         "name": "Luciano Leveroni",
         "github": "lucianolev",
         "email": "lleveroni@fi.uba.ar",
-        "profile-image": "./assets/docentes/LucianoL.png"
+        "profile-image": "./assets/docentes/LucianoL.png",
+        "offset": "400%"
     },
     {
         "name": "Juan Burella",
@@ -21,7 +22,8 @@
         "name": "Iván Loyarte",
         "github": "iloyarte",
         "email": "iloyarte@fi.uba.ar",
-        "profile-image": "./assets/docentes/IvanL.jpg"
+        "profile-image": "./assets/docentes/IvanL.jpg",
+        "offset": "75%"
     },
     {
         "name": "Julieta Taras",
@@ -51,19 +53,22 @@
         "name": "Ivan Litteri",
         "github": "ilitteri",
         "email": "ilitteri@fi.uba.ar",
-        "profile-image": "./assets/docentes/IvanL.jpeg"
+        "profile-image": "./assets/docentes/IvanL.jpeg",
+        "offset": "15%"
     },
     {
         "name": "Ignacio Brusati",
         "github": "brusati",
         "email": "ibrusati@fi.uba.ar",
-        "profile-image": "./assets/docentes/IgnacioB.jpg"
+        "profile-image": "./assets/docentes/IgnacioB.jpg",
+        "offset": "75%"
     },
     {
         "name": "Joaquín Singer",
         "github": "josinger",
         "email": "josinger@fi.uba.ar",
-        "profile-image": "./assets/docentes/JoaquinS.jpg"
+        "profile-image": "./assets/docentes/JoaquinS.jpg",
+        "offset": "25%"
     },
     {
         "name": "Josué Alejandro Bouchard",
@@ -87,7 +92,8 @@
         "name": "Federico Jaleh",
         "github": "Ezjafe",
         "email": "fjaleh@fi.uba.ar",
-        "profile-image": "./assets/docentes/FedericoJ.jpg"
+        "profile-image": "./assets/docentes/FedericoJ.jpg",
+        "offset": "65%"
     },
     {
         "name": "Ignacio Avecilla",
@@ -99,7 +105,8 @@
         "name": "Borja Garibotti",
         "github": "mrti259",
         "email": "borjagaribotti@gmail.com",
-        "profile-image": "./assets/docentes/BorjaG.jpg"
+        "profile-image": "./assets/docentes/BorjaG.jpg",
+        "offset": "0%"
     },
     {
         "name": "Joaquin Prada",
@@ -111,7 +118,8 @@
         "name": "Felipe Marelli",
         "github": "FelipeMarelli",
         "email": "fmarelli@fi.uba.ar",
-        "profile-image": "./assets/docentes/FelipeM.jpeg"
+        "profile-image": "./assets/docentes/FelipeM.jpeg",
+        "offset": "25%"
     },
     {
         "name": "Nazarena Rueda",
@@ -123,19 +131,22 @@
         "name": "Francisco Juarez",
         "github": "franjuarez",
         "email": "fjuarez@fi.uba.ar",
-        "profile-image": "./assets/docentes/FranciscoJ.png"
+        "profile-image": "./assets/docentes/FranciscoJ.png",
+        "offset": "0%"
     },
     {
         "name": "Tomas Szejnfeld Sirkis",
         "github": "TomasSzeSirk",
         "email": "tszejnfeld@fi.uba.ar",
-        "profile-image": "./assets/docentes/TomasSS.jpg"
+        "profile-image": "./assets/docentes/TomasSS.jpg",
+        "offset": "0%"
     },
     {
         "name": "Bruno Luciano Starnone",
         "github": "bstarnone",
         "email": "bstarnone@fi.uba.ar",
-        "profile-image": "./assets/docentes/BrunoS.jpeg"
+        "profile-image": "./assets/docentes/BrunoS.jpeg",
+        "offset": "0%"
     },
     {
         "name": "Julian Gonzalez Calderon",
@@ -153,13 +164,15 @@
         "name": "Nicolas Guglielmi",
         "github": "nicoguglielmi",
         "email": "nguglielmi@fi.uba.ar",
-        "profile-image": "./assets/docentes/NicoG.jpeg"
+        "profile-image": "./assets/docentes/NicoG.jpeg",
+        "offset": "80%"
     },
     {
         "name": "Chiara Ciriani",
         "github": "chiara-ciriani",
         "email": "cciriani@fi.uba.ar",
-        "profile-image": "./assets/docentes/ChiaraC.webp"
+        "profile-image": "./assets/docentes/ChiaraC.webp",
+        "offset": "40%"
     },
     {
         "name": "Ian Shih",

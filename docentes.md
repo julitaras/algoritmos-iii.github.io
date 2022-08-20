@@ -68,10 +68,18 @@ a:link {
     height: 80vw;
   }
 }
+
+{% for docente in site.data.docentes %}
+  {%- if docente.offset -%}
+    #{{docente.github}} > img {
+      object-position: 50% {{docente.offset}};
+    }
+  {%- endif -%}
+{% endfor %}
 </style>
 <div class="gallery">
 {%- for docente in site.data.docentes -%}
-  <div class="card">
+  <div class="card" id="{{docente.github}}">
     {% if docente.profile-image == "" %}
     <img src="./assets/docentes/default.png" alt="image" class="profile"/>
     {% else %}
