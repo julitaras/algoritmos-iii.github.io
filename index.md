@@ -10,9 +10,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
 - La materia se cursa los Martes de 19 a 22 hrs y Viernes de 17:30 a 20:30 hrs. La asistencia es fundamental.
 
-- La cursada este cuatrimestre será presencial. 
-
-- Los parciales serán presenciales.
+- La cursada este cuatrimestre será presencial (salvo alguna situación excepcional).
 
 ## Parciales, ejercicios grupales y lecturas
 
@@ -20,7 +18,7 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
 - Hay 2 examenes parciales. El primero, promediando la cursada, y el segundo, que integra todos los temas, será al finalizar la cursada.
 
-- Además de los parciales y ejercicios, durante la cursada habrá 10 papers (o capítulos de libros) a leer para distintas clases. Habrá cuestionarios (tipo quiz) durante la cursada para evaluar las lecturas. Quienes obtengan un 75% (o más) de respuestas correctas sumarán para el 2do parcial (o 1er recuperatorio) medio punto adicional (0.5) por cada 3 cuestionarios que cumplan este criterio. Estos puntos sevirán para la promoción, y no pueden ser usados para aprobar el 2do parcial (es decir, se sumarán sólo en caso de haber aprobado el parcial).
+- Además de los parciales y ejercicios, durante la cursada habrá 10 papers (o capítulos de libros) a leer para distintas clases. Habrá cuestionarios (tipo quiz) durante la cursada para evaluar las lecturas. Quienes obtengan un 75% (o más) de respuestas correctas sumarán para el 2do parcial (o 1er recuperatorio) medio punto adicional (0.5) por cada 4 cuestionarios que cumplan este criterio. Estos puntos sevirán para la promoción, y no pueden ser usados para aprobar el 2do parcial (es decir, se sumarán sólo en caso de haber aprobado el parcial).
 
 ## Criterio de Aprobación
 
