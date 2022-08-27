@@ -8,6 +8,10 @@ title: Apuntes
 
 ## Presentaciones <img alt="github icon" width="20px" src="./assets/icons/presentacion.svg" />
 
+- [01 Introducción a la materia](https://docs.google.com/presentation/d/1VYJMUEz9efHgIuGC66ljwiuWQSMPtkzsGJYnauiYZYY/edit?usp=sharing)
+- [01B Historia de Smalltalk](https://docs.google.com/presentation/d/1tW1oRcjkp2Lp-lQhvgwKn_lo249p1SgCd9ZYudK82Ho/edit?usp=sharing)
+- [01C Introduccion al Desarrollo de software](https://docs.google.com/presentation/d/1rzSZ3Ow3JMwCWvRoaqcv7Z1QmAEkYUiWRlemZZbeWBc/edit?usp=sharing)
+
 <p class="text-muted">Esta sección se irá completando con el correr del cuatrimestre, a medida que vayamos aprendiendo conceptos nuevos :) </p>
 
 ## Ejercicios en clase <img alt="github icon" width="20px" src="./assets/icons/practica.svg" />
