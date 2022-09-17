@@ -197,5 +197,11 @@
         "github": "higlak",
         "email": "jaschieri@fi.uba.ar",
         "profile-image": "./assets/docentes/JuanPA.jpeg"
+    },
+    {
+        "name": "Santiago Tobías Langer",
+	"github": "astrocinco",
+	"email": "santiagolanger@gmail.com",
+	"profile-image": "./assets/docentes/SantiagoL.jpg"
     }
 ]
