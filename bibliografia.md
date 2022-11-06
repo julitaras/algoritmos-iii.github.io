@@ -39,7 +39,11 @@ title: Bibliografía
 
 - [The Object Recursion Pattern ~ Bobby Woolf](assets/bibliografia/object-recusion-pattern.pdf) - [Traducción al Español](assets/bibliografia/object-recursion-esp.pdf)
 
+- [Composite Pattern ~ The Gang of Four](assets/bibliografia/composite-pattern.pdf)
+
 - [Method Object (Smalltalk Best Practice Patterns, Chapter 3) ~ Kent Beck](assets/bibliografia/method-object.pdf) - [Traducción al Español](assets/bibliografia/Method-object-esp.pdf)
+
+- [Visitor Pattern ~ The Gang of Four](assets/bibliografia/visitor-patter.pdf)
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](assets/bibliografia/intro-design-patterns.pdf) - [Traducción al Español](assets/bibliografia/intro-design-patterns-esp.pdf)
 
