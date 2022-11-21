@@ -45,13 +45,13 @@ title: Bibliografía
 
 - [Visitor Pattern ~ The Gang of Four](assets/bibliografia/visitor-pattern.pdf)
 
-- [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](assets/bibliografia/intro-design-patterns.pdf) - [Traducción al Español](assets/bibliografia/intro-design-patterns-esp.pdf)
+- [Fail Fast ~ Jim Shore](assets/bibliografia/fail-fast.pdf)
 
 ### Complementarias <img alt="github icon" width="22px" src="https://icongr.am/octicons/book.svg?size=128&color=currentColor" /> 
 
 - [Blue Book ~ Adele Goldberg & David Robson](http://sdmeta.gforge.inria.fr/FreeBooks/BlueBook/Bluebook.pdf)
 
-- [Fail Fast ~ Jim Shore](assets/bibliografia/fail-fast.pdf)
+- [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](assets/bibliografia/intro-design-patterns.pdf) - [Traducción al Español](assets/bibliografia/intro-design-patterns-esp.pdf)
 
 ## Videos <img alt="github icon" width="22px" src="https://icongr.am/clarity/film-strip.svg?size=148&color=currentColor" /> 
 
