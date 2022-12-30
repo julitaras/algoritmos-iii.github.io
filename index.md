@@ -30,24 +30,30 @@ Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
 - En caso de desaprobar el 2do parcial, se deberá rendir un recuperatorio, después del 2do parcial. Este recuperatorio reemplaza la nota del 2do parcial.
 
-- Quienes desaprueben el 1er recuperatorio, contarán con un 2do recuperatorio. Este 2do recuperatorio sólo servirá para aprobar la cursada, pero no para promocionar. Tampoco se considerará esta nota para la nota de cursada.
+- Quienes desaprueben el 1er recuperatorio, contarán con un 2do recuperatorio. Este 2do recuperatorio sólo servirá para aprobar la cursada, pero no para promocionar (tampoco se considerará para la nota de cursada).
 
 - Los ejercicios y el 1er parcial, dado que no son condición para aprobar la cursada sino sólo para promocionar, NO tienen instancia de recuperatorio.
 
-## Promoción
+### Nota de cursada
 
-- La nota de cursada se calcula como el promedio redondeado (ver debajo) entre:
+- En caso de aprobar la cursada, la nota se calcula como el promedio redondeado (ver debajo) entre:
   - Nota del 2do parcial (o del 1er recuperatorio).
   - Nota de los ejercicios prácticos + 1er parcial. Esta nota se calcula del siguiente modo:
     - Suma de nota de los ejercicios * 0.7 + Nota del 1er parcial * 0.3 (es decir, los 7 ejercicios representan el 70% de la nota y el 1er parcial, el 30% restante).
 
-- En caso de que el cálculo de la nota de cursada sea menor a 4, pero se haya aprobado el 2do parcial o algún recuperatorio, será 4 la nota de cursada.
+- En caso de que el cálculo de la nota de cursada sea menor a 4, pero se haya aprobado la cursada, será 4 la nota de cursada.
+
+- Notar que NO se considera el 2do recuperatorio para la nota de cursada.
+
+- Sobre el redondeo: La nota de los parciales y de los ejercicios NO se redondean. Sólo se redondea la nota de cursada al entero más cercano (.5 se redondea para arriba). Ej: 6.50 es 7 pero 6.42 es 6. (Función REDONDEAR de Excel).
+
+- Si no se aprueba la cursada, la nota será la del último parcial rendido (aplicando el redondeo).
+
+## Promoción
 
 - Para promocionar, se deben cumplir las siguientes 2 condiciones:
   - Nota del 2do parcial >= 7 (o del 1er recuperatorio).
   - Nota de cursada >= 7.
-  
-- Sobre el redondeo: La nota de los parciales y de los ejercicios NO se redondean. Sólo se redondea la nota de cursada al entero más cercano (.5 se redondea para arriba). Ej: 6.50 es 7 pero 6.42 es 6. (Función REDONDEAR de Excel).
 
 - Notar que se puede promocionar aún recuperando, pero sólo en instancia del 1er recuperatorio. En caso de necesitar rendir el 2do recuperatorio, ya no será posible acceder la promoción (aún teniendo notas >= 7).
 
