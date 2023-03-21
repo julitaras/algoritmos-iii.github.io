@@ -25,11 +25,11 @@ title: Bibliografía
 
 - [Programming as Theory Building ~ Peter Naur](assets/bibliografia/programming-as-theory-building.pdf) - [Traducción al Español](assets/bibliografia/la-programacion-como-construccion-de-teoria.pdf)
 
+- [Modern Software Engineering (Introduction)](assets/bibliografia/modern-software-engineering-intro.pdf)
+
 - [The design of everyday things ~ Donald Norman](assets/bibliografia/the-design-of-everyday-things.pdf) - [Traducción al Español](assets/bibliografia/la-psicologia-de-los-objetos-cotidianos.pdf)
 
 - [No Silver Bullet ~ Frederick P. Brooks](assets/bibliografia/no-silver-bullet.pdf) - [Traducción al Español](https://gist.github.com/esparta/582e43af7b803e0aaf69)
-
-- [Design Principles Behind Smalltalk ~ Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - [Traducción al Español](https://drive.google.com/file/d/1O6eT8gYyoJQzi09K8nqp22vkR8wfNKWH/view)
 
 - [Polymorphic Hierarchy ~ Bobby Woolf](assets/bibliografia/polymorphic-hierarchy.pdf) - [Traducción al Español](assets/bibliografia/jerarquia-polimorfica.pdf)
 
@@ -45,9 +45,11 @@ title: Bibliografía
 
 - [Visitor Pattern ~ The Gang of Four](assets/bibliografia/visitor-pattern.pdf)
 
-- [Fail Fast ~ Jim Shore](assets/bibliografia/fail-fast.pdf)
-
 ### Complementarias <img alt="github icon" width="22px" src="https://icongr.am/octicons/book.svg?size=128&color=currentColor" /> 
+
+- [Design Principles Behind Smalltalk ~ Daniel H. H. Ingalls](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) - [Traducción al Español](https://drive.google.com/file/d/1O6eT8gYyoJQzi09K8nqp22vkR8wfNKWH/view)
+
+- [Fail Fast ~ Jim Shore](assets/bibliografia/fail-fast.pdf)
 
 - [Blue Book ~ Adele Goldberg & David Robson](http://sdmeta.gforge.inria.fr/FreeBooks/BlueBook/Bluebook.pdf)
 
