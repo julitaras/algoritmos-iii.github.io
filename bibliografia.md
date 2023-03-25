@@ -25,7 +25,7 @@ title: Bibliografía
 
 - [Programming as Theory Building ~ Peter Naur](assets/bibliografia/programming-as-theory-building.pdf) - [Traducción al Español](assets/bibliografia/la-programacion-como-construccion-de-teoria.pdf)
 
-- [Modern Software Engineering (Introduction)](assets/bibliografia/modern-software-engineering-intro.pdf)
+- [Modern Software Engineering (Introduction)](assets/bibliografia/modern-software-engineering-intro.pdf) - [Traducción al Español](assets/bibliografia/Modern Software Engineering - En Español.pdf)
 
 - [The design of everyday things ~ Donald Norman](assets/bibliografia/the-design-of-everyday-things.pdf) - [Traducción al Español](assets/bibliografia/la-psicologia-de-los-objetos-cotidianos.pdf)
 
