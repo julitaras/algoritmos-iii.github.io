@@ -35,3 +35,55 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
 ## Apunte teórico <img alt="github icon" width="20px" src="https://icongr.am/clarity/library.svg?size=128&color=currentColor" />
 
 <p class="text-muted">Esta sección se irá completando con el correr del cuatrimestre, a medida que vayamos aprendiendo conceptos nuevos :) </p>
+
+Software:
+- Modelo computable de un dominio de problema de la realidad (vs Secuencia de instrucciones)
+- Paradigma de Objetos: Objetos que colaboran entre sí mediante el envío de mensajes para resolver un problema.
+
+Desarrollo de software:
+- Proceso de aprendizaje, iterativo e incremental
+- Feedback inmediato es fundamental
+- Modelo: Eje descriptivo, funcional e implementativo. Foco en eje descriptivo y funcional.
+
+Filosofía Smalltalk:
+- Lenguaje Meta circular
+- Ambiente de aprendizaje
+- Fundacional del paradigma
+- Ambiente vivo
+- Imagen + VM
+
+Objeto: 
+- Representación de un ente de un dominio de problema
+- El conjunto de mensajes que sabe responder un objeto define su esencia / lo define como tal.
+- Representación del ROL que tiene un ente de la realidad en un contexto determinado 
+
+Mensaje:
+- Define el QUE del objeto
+- Define una responsabilidad
+- Su comportamiento está definido por un método asociado al objeto con el mismo nombre que el del mensaje
+
+Método:
+- Implementación de un mensaje
+- Representa un conjunto de colaboraciones (es decir, código)
+- Define el COMO
+- 1 mensaje -> 1 o más métodos asociados
+- "self" -> Pseudo-variable que hace referencia al objeto receptor (en el contexto de un método). Se llama "this" en otros lenguajes.
+
+Colaborador:
+- Objeto que forma parte de una colaboración con otro objeto.
+- También conocidos como variables.
+- Externo: Participa sólo para una colaboración en particular. Se llama también "parámetro".
+- Interno: Tiene una relación de cercancía, participando normalmente en múltiples colaboraciones.
+
+doesNotUnderstand:
+El propio objeto decide que hacer si no sabe qué le estan diciendo (similar a lo que ocurre en la realidad)
+
+Closure:
+?
+
+Algoritmo para quitar código repetido
+---
+1. Copiar lo repetido a "otro lado"
+2. Parametrizar lo cambia
+3. Nombrar la abstracción
+4. Reemplazar lo repetido por la nueva abstracción
