@@ -51,7 +51,7 @@ title: Bibliografía
 
 - [Fail Fast ~ Jim Shore](assets/bibliografia/fail-fast.pdf)
 
-- [Blue Book ~ Adele Goldberg & David Robson](http://sdmeta.gforge.inria.fr/FreeBooks/BlueBook/Bluebook.pdf)
+- [Blue Book ~ Adele Goldberg & David Robson](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf)
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](assets/bibliografia/intro-design-patterns.pdf) - [Traducción al Español](assets/bibliografia/intro-design-patterns-esp.pdf)
 
