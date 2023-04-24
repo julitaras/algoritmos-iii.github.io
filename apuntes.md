@@ -122,9 +122,12 @@ Organización del conocimiento
 Algoritmo para quitar if
 ---
 
+0. Acomodar los ifs
 1. Crear una jerarquía de clases con una clase por cada condición del if (si es que no existen).
 2. Mover el cuerpo del if de cada condición a cada abstracción del paso 1) utilizando un mensaje polimórfico.
 3. Nombrar el mensaje polimórfico.
-4. Nombrar las abstracciones generadas en el paso 1
-5. Reemplazar el if por el envío del mensaje polimórfico.
-6. Buscar el objeto polimórfico (si es necesario)
+4. Nombrar las abstracciones generadas en el paso 1.
+5. Reemplazar el if por el envío del mensaje polimórfico (si es necesario).
+6. Definir el mensaje como abstracto en la superclase y borrar lo que ya no se use.
+7. Buscar el objeto polimórfico (si es necesario)
+
