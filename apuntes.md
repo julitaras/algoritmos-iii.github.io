@@ -122,7 +122,7 @@ Organización del conocimiento
 Algoritmo para quitar if
 ---
 
-0. Acomodar los ifs
+Paso 0: Acomodar los ifs
 1. Crear una jerarquía de clases con una clase por cada condición del if (si es que no existen).
 2. Mover el cuerpo del if de cada condición a cada abstracción del paso 1) utilizando un mensaje polimórfico.
 3. Nombrar el mensaje polimórfico.
