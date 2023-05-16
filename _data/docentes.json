@@ -127,5 +127,12 @@
         "email": "rfernandezm@fi.uba.ar",
         "profile-image": "./assets/docentes/RamiroFM.jpg",
         "offset": "55%"
+    },
+    {
+        "name": "Julian Agustin Rando",
+        "github": "JuVaTo",
+        "email": "jrando@fi.uba.ar",
+        "profile-image": "./assets/docentes/JulianR.jpg",
+        "offset": "55%"
     }
 ]
