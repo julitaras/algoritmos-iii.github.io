@@ -11,6 +11,9 @@ title: Apuntes
 - [01 Introducción a la materia](https://docs.google.com/presentation/d/1VYJMUEz9efHgIuGC66ljwiuWQSMPtkzsGJYnauiYZYY/edit?usp=sharing)
 - [01B Historia de Smalltalk](https://docs.google.com/presentation/d/1tW1oRcjkp2Lp-lQhvgwKn_lo249p1SgCd9ZYudK82Ho/edit?usp=sharing)
 - [01C Introduccion al Desarrollo de software](https://docs.google.com/presentation/d/1rzSZ3Ow3JMwCWvRoaqcv7Z1QmAEkYUiWRlemZZbeWBc/edit?usp=sharing)
+- [08 Intro al Clasificación](https://docs.google.com/presentation/d/1ebe5MFcd0oUxuFGC-WXm82JQkiOHcf1uU6Jy0TcRovA/edit?usp=sharing)
+- [17 TDD](https://docs.google.com/presentation/d/1kcRgVbE9S8GBapNIBj04UyfRo3mIdpmERjni4cbrpu8/edit?usp=sharing)
+- [23 Intro a Patrones de diseño](https://docs.google.com/presentation/d/1e3GMTIaXV1eXdE7RpFmjxOcaNp3UyYEe6JIZh3SgSVg/edit?usp=sharing)
 
 ## Ejercicios en clase <img alt="github icon" width="20px" src="./assets/icons/practica.svg" />
 
